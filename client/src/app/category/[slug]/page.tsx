@@ -7,7 +7,7 @@ interface Props {
   };
 }
 
-const CategoryPage = ({ params }: Props) => {
+const CategoryPage = ({ params }: any) => {
   const { slug } = params;
 
   return (
