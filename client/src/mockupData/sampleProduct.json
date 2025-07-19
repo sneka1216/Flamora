@@ -1,0 +1,43 @@
+[
+  {
+    "id": "10001",
+    "name": "Women's Classic White Ribbed T-Shirt",
+    "price": 15.99,
+    "description": "Elevate your casual wardrobe with this timeless white ribbed T-shirt. Crafted from a soft, breathable cotton blend, it features a flattering slim fit, crew neckline, and short sleeves. Designed for effortless versatility, it pairs seamlessly with your favorite denim, skirts, or tailored trousers.",
+    "image": [
+      "https://static.zara.net/assets/public/3e5a/3f00/8f2f4768a16c/bfe9b4f07585/01509010250-p/01509010250-p.jpg?ts=1750863293277&w=1024",
+      "https://static.zara.net/assets/public/79b5/ebd0/bed1402d9b06/9beb2783a5fd/01509010250-a1/01509010250-a1.jpg?ts=1750863292694&w=1126",
+      "https://static.zara.net/assets/public/1858/f712/fe8a4a1b9ed2/d3886db100bf/01509010250-a2/01509010250-a2.jpg?ts=1750863292580&w=750",
+      "https://static.zara.net/assets/public/1070/9a2a/cf1f4e858d0e/4f78531d9b02/01509010250-e1/01509010250-e1.jpg?ts=1740482685902&w=750",
+      "https://static.zara.net/assets/public/bbe4/4e41/2d114a61a16a/b127c4ac9f19/08851001250-015-e2/08851001250-015-e2.jpg?ts=1746538086473&w=750",
+      "https://static.zara.net/assets/public/b583/b5f4/705949a6b4c4/10a6b2152b58/08851001250-015-e3/08851001250-015-e3.jpg?ts=1746538086721&w=750"
+    ],
+    "shortDescription": "Round neck, short sleeve top. Ribbed trims",
+    "colour": "White",
+    "colourCode": "4661/049/251",
+    "category": "Tops",
+    "subcategory": "Peplum Top"
+  },
+  {
+    "id": "10002",
+    "name": "CABLE KNIT PEPLUM TOP",
+    "price": 15.99,
+    "description": "Elevate your casual wardrobe with this timeless white ribbed T-shirt. Crafted from a soft, breathable cotton blend, it features a flattering slim fit, crew neckline, and short sleeves. Designed for effortless versatility, it pairs seamlessly with your favorite denim, skirts, or tailored trousers.",
+    "image": [
+      "https://static.zara.net/assets/public/1be4/a3e4/d1ab4424a77a/20d33009c916/03920102712-p/03920102712-p.jpg?ts=1751542875108&w=1024",
+      "https://static.zara.net/assets/public/1e13/ded3/3c2f43a1a71d/9116180df1d5/03920102712-a1/03920102712-a1.jpg?ts=1751542873438&w=1126",
+      "https://static.zara.net/assets/public/b4fa/47e0/5f704a93b6a8/6c8d1e2f87c2/03920102712-a2/03920102712-a2.jpg?ts=1751542874480&w=750",
+      "https://static.zara.net/assets/public/81a2/77b9/606349a4ad6d/bc25cc6bd23e/03920102712-a3/03920102712-a3.jpg?ts=1751542874064&w=750",
+      "https://static.zara.net/assets/public/1e08/79a9/b8d44355ae8f/83d360962021/03920102712-a4/03920102712-a4.jpg?ts=1751542874294&w=750",
+      "https://static.zara.net/assets/public/1e08/79a9/b8d44355ae8f/83d360962021/03920102712-a4/03920102712-a4.jpg?ts=1751542874294&w=750",
+      "https://static.zara.net/assets/public/eec3/d78a/42cb40b6b453/604b9d830575/03920102712-e1/03920102712-e1.jpg?ts=1751629499532&w=750",
+      "https://static.zara.net/assets/public/78bb/e416/481942f09afb/9f3ccdf84da6/03920102712-e2/03920102712-e2.jpg?ts=1751629499140&w=750",
+      "https://static.zara.net/assets/public/91a8/05ec/501844a795bb/1647f06bee46/03920102712-e3/03920102712-e3.jpg?ts=1751629499380&w=750"
+    ],
+    "shortDescription": "Round neck, sleeveless top. Flared hem.",
+    "colour": "Ecru",
+    "colourCode": "3920/102/712",
+    "category": "Tops",
+    "subcategory": "Peplum Top"
+  }
+]

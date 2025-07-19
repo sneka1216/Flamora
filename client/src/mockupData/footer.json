@@ -1,0 +1,28 @@
+
+[
+    {
+      "title": "Discovery",
+      "links": [
+        { "text": "New season", "href": "/new-season" },
+        { "text": "Most searched", "href": "/most-searched" },
+        { "text": "Most selled", "href": "/most-selled" }
+      ]
+    },
+    {
+      "title": "About",
+      "links": [
+        { "text": "Help", "href": "/help" },
+        { "text": "Shipping", "href": "/shipping" },
+        { "text": "Affiliate", "href": "/affiliate" }
+      ]
+    },
+    {
+      "title": "Info",
+      "links": [
+        { "text": "Contact us", "href": "/contact" },
+        { "text": "Privacy Policies", "href": "/privacy-policy" },
+        { "text": "Terms & Conditions", "href": "/terms-and-conditions" }
+      ]
+    }
+  ]
+  
