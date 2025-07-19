@@ -5,8 +5,9 @@ import Footer from "@/components/Footer/footer";
 
 const poppins = Poppins({
   subsets: ["latin"],
-  weight: ["400"], 
+  weight: ["400"],
   style: "normal",
+  display: "swap",
 });
 
 export default function RootLayout({
@@ -18,9 +19,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${poppins?.className} antialiased`}>
         <Header />
-        <main>
-          {children}
-        </main>
+        <main>{children}</main>
         <Footer />
       </body>
     </html>
