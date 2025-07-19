@@ -11,7 +11,12 @@ interface PageProps {
 const SubCategoryPage = async ({ params }: PageProps) => {
   const { slug, subcategory } = await params;
 
-  return <ProductIndex slug={slug} subcategory={subcategory} />;
+  return (
+    <>
+      {" "}
+      <ProductIndex slug={slug} subcategory={subcategory} />{" "}
+    </>
+  );
 };
 
 export default SubCategoryPage;

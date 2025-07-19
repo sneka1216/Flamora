@@ -11,9 +11,9 @@ const CategoryPage = ({ params }: Props) => {
   const { slug } = params;
 
   return (
-    <div>
+    <>
       <ProductIndex slug={slug} />
-    </div>
+    </>
   );
 };
 
