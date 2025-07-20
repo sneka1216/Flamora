@@ -7,6 +7,7 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import sampleProduct from "../../mockupData/sampleProduct.json";
 import Link from "next/link";
+import type { CustomArrowProps } from "react-slick";
 
 interface Product {
   id: string;
@@ -26,7 +27,7 @@ interface Props {
   subcategory?: string;
 }
 
-const NextArrow = (props: any) => {
+const NextArrow = (props: CustomArrowProps) => {
   const { onClick } = props;
   return (
     <div
@@ -51,7 +52,7 @@ const NextArrow = (props: any) => {
   );
 };
 
-const PrevArrow = (props: any) => {
+const PrevArrow = (props: CustomArrowProps) => {
   const { onClick } = props;
   return (
     <div

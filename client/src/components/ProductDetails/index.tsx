@@ -1,7 +1,11 @@
 import React from "react";
 import ProductInformation from "./productInformation";
 
-const ProductDetails = ({ slug }: any) => {
+interface ProductDetailsProps {
+  slug: string;
+}
+
+const ProductDetails: React.FC<ProductDetailsProps> = ({ slug }) => {
   return (
     <div>
       <ProductInformation slug={slug} />

@@ -1,22 +1,17 @@
 import ProductIndex from "@/components/ProductListing";
 import React from "react";
-
+export const dynamicParams = true;
 interface PageProps {
-  params: Promise<{
+  params: {
     slug: string;
     subcategory: string;
-  }>;
+  };
 }
 
-const SubCategoryPage = async ({ params }: any) => {
-  const { slug, subcategory } = await params;
+const SubCategoryPage = async ({ params }: PageProps) => {
+  const { slug, subcategory } = params;
 
-  return (
-    <>
-      {" "}
-      <ProductIndex slug={slug} subcategory={subcategory} />{" "}
-    </>
-  );
+  return <ProductIndex slug={slug} subcategory={subcategory} />;
 };
 
 export default SubCategoryPage;

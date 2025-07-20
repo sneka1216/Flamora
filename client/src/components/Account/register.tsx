@@ -5,7 +5,7 @@ const Register = () => {
   return (
     <div className="flex flex-col items-center justify-center my-5">
       <p className="text-[35px] my-5">Register</p>
-      {registerMockup?.register?.map((field: any) => (
+      {registerMockup?.register?.map((field: string) => (
         <input
           className="w-80 h-9 my-2 px-2 border outline-none text-sm border-black"
           placeholder={field}
