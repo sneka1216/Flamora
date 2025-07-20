@@ -8,7 +8,7 @@ interface PageProps {
   }>;
 }
 
-const SubCategoryPage = async ({ params }: PageProps) => {
+const SubCategoryPage = async ({ params }: any) => {
   const { slug, subcategory } = await params;
 
   return (

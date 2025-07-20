@@ -7,7 +7,7 @@ interface Props {
   };
 }
 
-const ProductPage = async ({ params }: Props) => {
+const ProductPage = async ({ params }: any) => {
   const { slug } = params;
 
   return (
