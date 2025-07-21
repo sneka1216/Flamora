@@ -25,7 +25,7 @@ const Header = () => {
         </div>
         <div className="row-span-2 mt-5 col-span-2 place-content-center ml-10">
           <div className="flex justify-center gap-8">
-            <Link href={"/account"}>
+            <Link href={"/account/register"}>
               <svg
                 viewBox="0 0 24 24"
                 fill="none"

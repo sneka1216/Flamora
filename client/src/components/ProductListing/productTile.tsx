@@ -4,7 +4,7 @@ import Link from "next/link";
 import sampleProduct from "../../mockupData/sampleProduct.json";
 
 interface Product {
-  id: string;
+  sku: string;
   name: string;
   price: number;
   description: string;
@@ -21,8 +21,6 @@ interface Props {
 const sampleProducts: Product[] = sampleProduct;
 
 const ProductTile = ({ slug, subcategory }: Props) => {
-  console.log("slug", slug, "subcategory", subcategory);
-
   const filteredProducts = sampleProducts?.filter((product) => {
     if (subcategory) {
       return (
@@ -30,21 +28,18 @@ const ProductTile = ({ slug, subcategory }: Props) => {
         product?.subcategory === subcategory?.replaceAll("-", " ")
       );
     }
-    console.log("category777", slug?.replaceAll("-", ""));
+
     return product?.category === slug?.replaceAll("-", "");
   });
-  console.log("filteredProducts888", filteredProducts);
-  console.log("filterProducts", slug?.replace("-", " "));
-  console.log("hiii", subcategory?.replace("-", " "));
 
   return (
     <div className="grid grid-cols-2 lg:grid-cols-4 gap-2 mx-2">
       {filteredProducts?.map((product) => (
         <div
-          key={product?.id}
+          key={product?.sku}
           className="py-4 flex flex-col justify-between h-full"
         >
-          <Link href={`/productDetails/${product?.id}`}>
+          <Link href={`/productDetails/${product?.sku}`}>
             <div className="relative w-full mb-2">
               <img
                 src={product?.image?.[0]}

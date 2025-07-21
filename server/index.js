@@ -6,6 +6,7 @@ import mongoose from "mongoose";
 import productController from "./controllers/productController.js";
 import cartController from "./controllers/cartController.js";
 import orderController from "./controllers/orderController.js";
+import categoryController from "./controllers/category.js";
 
 const server = express();
 server.use(cors());
@@ -16,6 +17,7 @@ server.use("/customer", customerController);
 server.use("/product", productController);
 server.use("/cart", cartController);
 server.use("/order", orderController);
+server.use("/category", categoryController);
 
 server.listen(5000, () => {
   mongoose
