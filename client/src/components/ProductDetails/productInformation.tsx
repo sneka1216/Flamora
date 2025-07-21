@@ -10,7 +10,7 @@ import Link from "next/link";
 import type { CustomArrowProps } from "react-slick";
 
 interface Product {
-  id: string;
+  sku: string;
   name: string;
   price: number;
   description: string;
@@ -80,7 +80,7 @@ const PrevArrow = (props: CustomArrowProps) => {
 const ProductInformation = ({ slug }: Props) => {
   const sampleProducts: Product[] = sampleProduct;
 
-  const filteredProduct = sampleProducts?.find((i) => i?.id === slug);
+  const filteredProduct = sampleProducts?.find((i) => i?.sku === slug);
 
   if (!filteredProduct) return <p>Product not found</p>;
 

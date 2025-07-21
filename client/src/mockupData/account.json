@@ -1,3 +1,4 @@
 {
-  "register": ["Name", "Email", "Password"]
+  "register": ["Name", "Email", "Password"],
+  "login": ["Email", "Password"]
 }

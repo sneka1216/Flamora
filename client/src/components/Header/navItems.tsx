@@ -54,7 +54,7 @@ const NavItems = () => {
             </li>
           ))}
         </ul>
-        <hr className="border-t border-gray-300 my-4" />
+        <hr className="border-t border-gray-300 mt-4" />
         {hoveredCategory && (
           <div
             className="absolute left-0 right-0 z-50 bg-white pb-5 "

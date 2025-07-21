@@ -1,6 +1,6 @@
 [
   {
-    "id": "10001",
+    "sku": "10001",
     "name": "Women's Classic White Ribbed T-Shirt",
     "price": 15.99,
     "description": "Elevate your casual wardrobe with this timeless white ribbed T-shirt. Crafted from a soft, breathable cotton blend, it features a flattering slim fit, crew neckline, and short sleeves. Designed for effortless versatility, it pairs seamlessly with your favorite denim, skirts, or tailored trousers.",
@@ -19,7 +19,7 @@
     "subcategory": "Peplum Top"
   },
   {
-    "id": "10002",
+    "sku": "10002",
     "name": "CABLE KNIT PEPLUM TOP",
     "price": 15.99,
     "description": "Elevate your casual wardrobe with this timeless white ribbed T-shirt. Crafted from a soft, breathable cotton blend, it features a flattering slim fit, crew neckline, and short sleeves. Designed for effortless versatility, it pairs seamlessly with your favorite denim, skirts, or tailored trousers.",
