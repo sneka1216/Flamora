@@ -1,6 +1,6 @@
 "use client";
 
-import React from "react";
+import React, { useEffect } from "react";
 import Slider from "react-slick";
 
 import "slick-carousel/slick/slick.css";
@@ -8,15 +8,25 @@ import "slick-carousel/slick/slick-theme.css";
 import sampleProduct from "../../mockupData/sampleProduct.json";
 import Link from "next/link";
 import type { CustomArrowProps } from "react-slick";
+interface Category {
+  _id: string;
+  name: string;
+  slug: string;
+  description: string;
+  parent: string | null; // null for main category, otherwise ObjectId as string
+  createdAt: string; // ISO date string
+  updatedAt: string; // ISO date string
+  __v: number;
+}
 
-interface Product {
+export interface Product {
   sku: string;
   name: string;
   price: number;
   description: string;
   image: string[];
-  category: string;
-  subcategory?: string;
+  category?: Category;
+  subCategory?: Category;
   colour?: string;
   colourCode?: string;
   shortDescription?: string;
@@ -25,6 +35,7 @@ interface Product {
 interface Props {
   slug: string;
   subcategory?: string;
+  product: Product | undefined;
 }
 
 const NextArrow = (props: CustomArrowProps) => {
@@ -77,13 +88,7 @@ const PrevArrow = (props: CustomArrowProps) => {
   );
 };
 
-const ProductInformation = ({ slug }: Props) => {
-  const sampleProducts: Product[] = sampleProduct;
-
-  const filteredProduct = sampleProducts?.find((i) => i?.sku === slug);
-
-  if (!filteredProduct) return <p>Product not found</p>;
-
+const ProductInformation = ({ slug, product }: Props) => {
   const settings = {
     dots: true,
     infinite: true,
@@ -103,7 +108,7 @@ const ProductInformation = ({ slug }: Props) => {
           top: "10%",
           left: "55%",
           width: "40%",
-          height: "50%",
+          height: "45%",
           backgroundColor: "white",
           opacity: 0.9,
           zIndex: 20,
@@ -111,10 +116,10 @@ const ProductInformation = ({ slug }: Props) => {
       >
         <div className="m-5">
           <p className="text-xs ">
-            {`${filteredProduct?.category} > ${filteredProduct?.subcategory}`}
+            {`${product?.category?.name} > ${product?.subCategory?.name}`}
           </p>
           <div className="flex justify-between items-center">
-            <p className="font-bold mt-2 text-2xl">{filteredProduct?.name}</p>
+            <p className=" mt-2 text-2xl">{product?.name}</p>
             <Link className="cursor-pointer" href={"/wishlist"}>
               <svg
                 viewBox="0 0 48 48"
@@ -134,25 +139,24 @@ const ProductInformation = ({ slug }: Props) => {
           </div>
 
           <div className="flex">
-            <p className="mt-5 text-lg">${filteredProduct?.price}</p>
+            <p className="mt-2 text-lg">${product?.price}</p>
           </div>
           <p className="text-sm">MRP incl. of all taxes</p>
           <hr className="border-t border-gray-300 my-4" />
           <div className="text-sm">
-            {filteredProduct?.colour} |{" "}
-            {filteredProduct?.colourCode?.replaceAll("/", "-")}
+            {product?.colour} | {product?.colourCode?.replaceAll("/", "-")}
           </div>
           <Link href={"/cart"}>
             <div className="border cursor-pointer border-slate-800 p-2 text-center my-4">
               Add To Basket
             </div>
           </Link>
-          <div>{filteredProduct?.shortDescription}</div>
+          <div className="truncate">{product?.shortDescription}</div>
         </div>
       </div>
 
       <Slider {...settings}>
-        {filteredProduct?.image?.map((img, index) => (
+        {product?.image?.map((img: string, index: number) => (
           <div key={index} className="pr-1">
             <img
               src={img}
