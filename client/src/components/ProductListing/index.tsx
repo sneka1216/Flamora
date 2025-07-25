@@ -26,7 +26,7 @@ const ProductIndex = ({ slug, subcategory }: ProductIndexProps) => {
 
         setProductData(data);
       } catch (err) {
-        console.log("err");
+        console.log("err", err);
       } finally {
         console.log("loading");
       }
@@ -35,13 +35,7 @@ const ProductIndex = ({ slug, subcategory }: ProductIndexProps) => {
     fetchProducts();
   }, [slug]);
 
-  return (
-    <ProductTile
-      slug={slug}
-      productData={productData}
-      subcategory={subcategory}
-    />
-  );
+  return <ProductTile productData={productData} />;
 };
 
 export default ProductIndex;

@@ -1,11 +1,10 @@
 "use client";
 
-import React, { useEffect } from "react";
+import React from "react";
 import Slider from "react-slick";
 
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import sampleProduct from "../../mockupData/sampleProduct.json";
 import Link from "next/link";
 import type { CustomArrowProps } from "react-slick";
 interface Category {
@@ -33,7 +32,6 @@ export interface Product {
 }
 
 interface Props {
-  slug: string;
   subcategory?: string;
   product: Product | undefined;
 }
@@ -88,7 +86,7 @@ const PrevArrow = (props: CustomArrowProps) => {
   );
 };
 
-const ProductInformation = ({ slug, product }: Props) => {
+const ProductInformation = ({ product }: Props) => {
   const settings = {
     dots: true,
     infinite: true,
