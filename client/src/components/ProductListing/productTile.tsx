@@ -4,15 +4,13 @@ import Link from "next/link";
 import { Product } from "../ProductDetails/productInformation";
 
 interface Props {
-  slug: string;
-  subcategory?: string;
   productData: Product[] | undefined;
 }
 
-const ProductTile = ({ slug, subcategory, productData }: Props) => {
+const ProductTile = ({ productData }: Props) => {
   return (
     <div className="grid grid-cols-2 lg:grid-cols-4 gap-2 mx-2">
-      {productData?.map((product: any) => (
+      {productData?.map((product: Product) => (
         <div
           key={product?.sku}
           className="py-4 flex flex-col justify-between h-full"
