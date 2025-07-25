@@ -15,7 +15,7 @@ const ProductDetails: React.FC<ProductDetailsProps> = ({ slug }) => {
         const data = await response.json();
         setProduct(data);
       } catch (err) {
-        console.log("err");
+        console.log("err", err);
       } finally {
         console.log("loading");
       }
@@ -25,7 +25,7 @@ const ProductDetails: React.FC<ProductDetailsProps> = ({ slug }) => {
   }, [slug]);
   return (
     <div>
-      <ProductInformation product={product} slug={slug} />
+      <ProductInformation product={product} />
     </div>
   );
 };
