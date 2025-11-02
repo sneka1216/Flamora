@@ -1,0 +1,907 @@
+[
+  [
+    {
+      "_id": "6880d1563b795f8c034f2d11",
+      "name": "PEPLUM KNIT WAISTCOAT TOP",
+      "sku": "10003",
+      "description": "This peplum knit waistcoat top blends modern sophistication with timeless charm. Designed with a flattering cinched waist and structured silhouette, it’s perfect for layering or wearing solo. Crafted from a premium knit for all-day comfort, this versatile piece elevates both casual and formal looks effortlessly.",
+      "shortDescription": "Flattering peplum knit top with a structured waistcoat silhouette for everyday elegance.",
+      "colour": "White",
+      "colourCode": "#FFFFFF",
+      "category": {
+        "id": "687e7c743035fcdb1381f196",
+        "name": "Tops",
+        "slug": "Tops"
+      },
+      "price": 19.5,
+      "image": [
+        "https://static.zara.net/assets/public/6e21/340e/ec2a4d719b08/eab70ede8cb4/04192060250-a2/04192060250-a2.jpg?ts=1748357505424&w=1024",
+        "https://static.zara.net/assets/public/536a/221f/fbdd4a8eac78/9d12e3f7c9ea/04192060250-a3/04192060250-a3.jpg?ts=1748357505403&w=1125",
+        "https://static.zara.net/assets/public/be01/2ff6/840948fbb1cf/2010f6496d64/04192060250-p/04192060250-p.jpg?ts=1748357507112&w=750",
+        "https://static.zara.net/assets/public/367a/09cb/6d7e4f5b9125/8840c4568ac1/04192060250-a1/04192060250-a1.jpg?ts=1748357505298&w=750",
+        "https://static.zara.net/assets/public/2b3e/39f0/73ec4a92a98f/afc40ba37625/04192060250-e1/04192060250-e1.jpg?ts=1748258884662&w=750",
+        "https://static.zara.net/assets/public/2b3e/39f0/73ec4a92a98f/afc40ba37625/04192060250-e1/04192060250-e1.jpg?ts=1748258884662&w=750",
+        "https://static.zara.net/assets/public/7da2/d5f5/45114d0bb94f/2ec2006dcbca/04192060250-e2/04192060250-e2.jpg?ts=1748258884757&w=750",
+        "https://static.zara.net/assets/public/ae8f/9cf9/76bc4c5592fc/7ccfb847ea31/04192060250-e3/04192060250-e3.jpg?ts=1748258885100&w=750"
+      ],
+      "stock": "50",
+      "createdAt": "2025-07-23T12:11:02.353Z",
+      "updatedAt": "2025-07-24T02:54:18.930Z",
+      "__v": 0,
+      "subCategory": {
+        "id": "687e7fb33ba886365e76b1cf",
+        "name": "Peplum Top",
+        "slug": "Peplum-Top"
+      }
+    },
+    {
+      "_id": "6880d1c83b795f8c034f2d15",
+      "name": "Women's Classic White Ribbed T-Shirt",
+      "sku": "10001",
+      "description": "Elevate your casual wardrobe with this timeless white ribbed T-shirt. Crafted from a soft, breathable cotton blend, it features a flattering slim fit, crew neckline, and short sleeves. Designed for effortless versatility, it pairs seamlessly with your favorite denim, skirts, or tailored trousers.",
+      "shortDescription": "Round neck, short sleeve top. Ribbed trims",
+      "colour": "White",
+      "colourCode": "4661/049/251",
+      "category": {
+        "id": "687e7c743035fcdb1381f196",
+        "name": "Tops",
+        "slug": "Tops"
+      },
+      "price": 15.99,
+      "image": [
+        "https://static.zara.net/assets/public/3e5a/3f00/8f2f4768a16c/bfe9b4f07585/01509010250-p/01509010250-p.jpg?ts=1750863293277&w=1024",
+        "https://static.zara.net/assets/public/79b5/ebd0/bed1402d9b06/9beb2783a5fd/01509010250-a1/01509010250-a1.jpg?ts=1750863292694&w=1126",
+        "https://static.zara.net/assets/public/1858/f712/fe8a4a1b9ed2/d3886db100bf/01509010250-a2/01509010250-a2.jpg?ts=1750863292580&w=750",
+        "https://static.zara.net/assets/public/1070/9a2a/cf1f4e858d0e/4f78531d9b02/01509010250-e1/01509010250-e1.jpg?ts=1740482685902&w=750",
+        "https://static.zara.net/assets/public/bbe4/4e41/2d114a61a16a/b127c4ac9f19/08851001250-015-e2/08851001250-015-e2.jpg?ts=1746538086473&w=750",
+        "https://static.zara.net/assets/public/b583/b5f4/705949a6b4c4/10a6b2152b58/08851001250-015-e3/08851001250-015-e3.jpg?ts=1746538086721&w=750"
+      ],
+      "stock": "100",
+      "createdAt": "2025-07-23T12:12:56.019Z",
+      "updatedAt": "2025-07-24T02:54:42.270Z",
+      "__v": 0,
+      "subCategory": {
+        "id": "687e7fb33ba886365e76b1cf",
+        "name": "Peplum Top",
+        "slug": "Peplum-Top"
+      }
+    },
+    {
+      "_id": "6880d1df3b795f8c034f2d19",
+      "name": "CABLE KNIT PEPLUM TOP",
+      "sku": "10002",
+      "description": "Elevate your casual wardrobe with this timeless white ribbed T-shirt. Crafted from a soft, breathable cotton blend, it features a flattering slim fit, crew neckline, and short sleeves. Designed for effortless versatility, it pairs seamlessly with your favorite denim, skirts, or tailored trousers.",
+      "shortDescription": "Round neck, sleeveless top. Flared hem.",
+      "colour": "Ecru",
+      "colourCode": "3920/102/712",
+      "category": {
+        "id": "687e7c743035fcdb1381f196",
+        "name": "Tops",
+        "slug": "Tops"
+      },
+      "price": 15.99,
+      "image": [
+        "https://static.zara.net/assets/public/1be4/a3e4/d1ab4424a77a/20d33009c916/03920102712-p/03920102712-p.jpg?ts=1751542875108&w=1024",
+        "https://static.zara.net/assets/public/1e13/ded3/3c2f43a1a71d/9116180df1d5/03920102712-a1/03920102712-a1.jpg?ts=1751542873438&w=1126",
+        "https://static.zara.net/assets/public/b4fa/47e0/5f704a93b6a8/6c8d1e2f87c2/03920102712-a2/03920102712-a2.jpg?ts=1751542874480&w=750",
+        "https://static.zara.net/assets/public/81a2/77b9/606349a4ad6d/bc25cc6bd23e/03920102712-a3/03920102712-a3.jpg?ts=1751542874064&w=750",
+        "https://static.zara.net/assets/public/1e08/79a9/b8d44355ae8f/83d360962021/03920102712-a4/03920102712-a4.jpg?ts=1751542874294&w=750",
+        "https://static.zara.net/assets/public/1e08/79a9/b8d44355ae8f/83d360962021/03920102712-a4/03920102712-a4.jpg?ts=1751542874294&w=750",
+        "https://static.zara.net/assets/public/eec3/d78a/42cb40b6b453/604b9d830575/03920102712-e1/03920102712-e1.jpg?ts=1751629499532&w=750",
+        "https://static.zara.net/assets/public/78bb/e416/481942f09afb/9f3ccdf84da6/03920102712-e2/03920102712-e2.jpg?ts=1751629499140&w=750",
+        "https://static.zara.net/assets/public/91a8/05ec/501844a795bb/1647f06bee46/03920102712-e3/03920102712-e3.jpg?ts=1751629499380&w=750"
+      ],
+      "stock": "60",
+      "createdAt": "2025-07-23T12:13:19.517Z",
+      "updatedAt": "2025-07-24T02:54:58.938Z",
+      "__v": 0,
+      "subCategory": {
+        "id": "687e7fb33ba886365e76b1cf",
+        "name": "Peplum Top",
+        "slug": "Peplum-Top"
+      }
+    },
+    {
+      "_id": "6880d2f83b795f8c034f2d1d",
+      "name": "PEPLUM STRETCH TOP",
+      "sku": "10004",
+      "description": "This peplum stretch top adds a sleek, feminine touch to your wardrobe. Designed with a classic round neckline and sleeveless cut, it hugs the body while flaring at the hem for a flattering fit. Made from a comfortable stretch fabric, it's perfect for both casual styling and dressier occasions.",
+      "shortDescription": "Sleeveless stretch peplum top with a round neck and flared hem for a flattering, feminine silhouette.",
+      "colour": "Black",
+      "colourCode": "5584/150/800",
+      "category": {
+        "id": "687e7c743035fcdb1381f196",
+        "name": "Tops",
+        "slug": "Tops"
+      },
+      "price": 10.99,
+      "image": [
+        "https://static.zara.net/assets/public/724d/1e8f/9547405f81eb/18de7651c5db/05584150800-p/05584150800-p.jpg?ts=1745579799019&w=1024",
+        "https://static.zara.net/assets/public/4817/920e/a43e4523b8df/4c7ddfc06c6d/05584150800-a1/05584150800-a1.jpg?ts=1745579899376&w=1125",
+        "https://static.zara.net/assets/public/da71/c50a/141b43c8b97e/bd5aefff7527/05584150800-a2/05584150800-a2.jpg?ts=1745579899779&w=750",
+        "https://static.zara.net/assets/public/e6e0/5183/e02b4ac1a4ca/bc7075f6c505/05584150800-a3/05584150800-a3.jpg?ts=1745579899427&w=750",
+        "https://static.zara.net/assets/public/95a7/8a70/bfcd4a70b979/7a8b2c90fc81/05584150800-e1/05584150800-e1.jpg?ts=1745573068816&w=750",
+        "https://static.zara.net/assets/public/1494/99e0/25ec4b189454/ae69f4be5801/05584150800-e2/05584150800-e2.jpg?ts=1745573068572&w=750",
+        "https://static.zara.net/assets/public/5504/e4f4/d7754a7e9c90/74d17914f74f/05584150800-e3/05584150800-e3.jpg?ts=1745573068668&w=750"
+      ],
+      "stock": "100",
+      "createdAt": "2025-07-23T12:18:00.349Z",
+      "updatedAt": "2025-07-24T02:55:12.110Z",
+      "__v": 0,
+      "subCategory": {
+        "id": "687e7fb33ba886365e76b1cf",
+        "name": "Peplum Top",
+        "slug": "Peplum-Top"
+      }
+    },
+    {
+      "_id": "6880e3f53b795f8c034f2d21",
+      "name": "STRETCH PEPLUM TOP",
+      "sku": "10005",
+      "description": "Turn heads with this striking stretch peplum top in an intense red shade. Crafted for both comfort and shape, it features a sleeveless design, round neckline, and a cinched waist that flows into a bold flared hem. Perfect for adding a pop of confidence to your day or evening look.",
+      "shortDescription": "Bold sleeveless peplum top in stretch fabric, featuring a round neckline and dramatic flared hem.",
+      "colour": "Intense red",
+      "colourCode": "8280/333/601",
+      "category": {
+        "id": "687e7c743035fcdb1381f196",
+        "name": "Tops",
+        "slug": "Tops"
+      },
+      "price": 18.99,
+      "image": [
+        "https://static.zara.net/assets/public/cbf2/7c17/bf614e1aa38f/c0432670dd35/04764140601-p/04764140601-p.jpg?ts=1752593993204&w=1024",
+        "https://static.zara.net/assets/public/cf24/3117/6de6465b9e45/fe240c189358/04764140601-a1/04764140601-a1.jpg?ts=1752593993639&w=1125",
+        "https://static.zara.net/assets/public/ebc8/b231/130245cd85cc/0a7c8b5f3753/04764140601-a2/04764140601-a2.jpg?ts=1752593993525&w=750",
+        "https://static.zara.net/assets/public/c350/7a3b/824844c18076/8d1d37c68682/04764140601-a3/04764140601-a3.jpg?ts=1752593993473&w=750",
+        "https://static.zara.net/assets/public/4bd8/4908/877d4a82bc4b/99aacaa82888/04764140601-a4/04764140601-a4.jpg?ts=1752593993461&w=750",
+        "https://static.zara.net/assets/public/f6ab/43ec/e926455f977a/8bf339b7cedf/04764140601-e1/04764140601-e1.jpg?ts=1752587977692&w=750",
+        "https://static.zara.net/assets/public/4124/7c73/be5f4c40add8/7d9479952824/04764140601-e2/04764140601-e2.jpg?ts=1752587978122&w=750"
+      ],
+      "stock": "100",
+      "createdAt": "2025-07-23T13:30:29.572Z",
+      "updatedAt": "2025-07-24T02:55:27.172Z",
+      "__v": 0,
+      "subCategory": {
+        "id": "687e7fb33ba886365e76b1cf",
+        "name": "Peplum Top",
+        "slug": "Peplum-Top"
+      }
+    },
+    {
+      "_id": "6883f26cb0b3f8c68b2bbdf4",
+      "name": "ZW COLLECTION EMBROIDERED POCKET SHIRT",
+      "sku": "10006",
+      "description": "Elevate your wardrobe with this timeless brown shirt from the ZW Collection. Designed with long sleeves and a structured silhouette, it features a refined collar and a single embroidered chest pocket that adds a touch of detail. Crafted from high-quality fabric for both comfort and polish, this versatile piece pairs seamlessly with tailored trousers, denim, or layered under outerwear for a smart, modern look.",
+      "shortDescription": "Classic long-sleeve shirt featuring embroidered pocket detail and structured tailoring—ideal for refined everyday style.",
+      "colour": "Brown",
+      "colourCode": "4786/079/700",
+      "category": {
+        "id": "687e8229cfbf0d42cb9a6735",
+        "name": "Woman Shirts",
+        "slug": "Woman-Shirts"
+      },
+      "subCategory": {
+        "id": "687e837dcfbf0d42cb9a6740",
+        "name": "Tie-Front Tops",
+        "slug": "tie-front-tops"
+      },
+      "price": 20.99,
+      "image": [
+        "https://static.zara.net/assets/public/5409/334f/f5034cd0bf56/a06a9b2aac71/04786079700-p/04786079700-p.jpg?ts=1753090170022&w=1024",
+        "https://static.zara.net/assets/public/e35a/49a8/2288434b9a2a/a21e82c7bb35/04786079700-a1/04786079700-a1.jpg?ts=1753090171126&w=1125",
+        "https://static.zara.net/assets/public/b191/9a3e/485741009eb3/6343beb3add0/04786079700-a2/04786079700-a2.jpg?ts=1753090169671&w=750",
+        "https://static.zara.net/assets/public/a984/ee8d/27b745349c6f/51c826824d54/04786079700-a3/04786079700-a3.jpg?ts=1753090171132&w=750",
+        "https://static.zara.net/assets/public/f034/3cc9/642742edb84e/ad49b0b2f456/04786079700-a4/04786079700-a4.jpg?ts=1753090170096&w=750",
+        "https://static.zara.net/assets/public/f7c7/e7d3/cddf4f54b4ab/e35a4f3e7a0c/04786079700-a5/04786079700-a5.jpg?ts=1753090171826&w=750",
+        "https://static.zara.net/assets/public/5574/d25f/18bc4ffab148/20c332136a88/04786019700-e1/04786019700-e1.jpg?ts=1753114251455&w=750",
+        "https://static.zara.net/assets/public/70a1/c7a3/a11a424486de/5e865bb9efea/04786019700-e2/04786019700-e2.jpg?ts=1753114251996&w=750",
+        "https://static.zara.net/assets/public/1d0b/b19a/d95041edac23/c25101b6d884/04786019700-e3/04786019700-e3.jpg?ts=1753114252253&w=750"
+      ],
+      "stock": "50",
+      "createdAt": "2025-07-25T21:09:00.046Z",
+      "updatedAt": "2025-07-25T21:10:29.913Z",
+      "__v": 0
+    },
+    {
+      "_id": "6883f396b0b3f8c68b2bbdfa",
+      "name": "CREASED-EFFECT SHORT SLEEVE SHIRT",
+      "sku": "10007",
+      "description": "Add character to your wardrobe with this Marsala short-sleeve shirt featuring a distinctive creased-effect texture. Designed with a relaxed fit, dropped shoulders, and a classic collar, it strikes the perfect balance between structure and ease. The lightweight fabric and subtle sheen make it an ideal choice for warm-weather dressing, whether paired with denim, tailored shorts, or layered over a tank for a laid-back vibe.",
+      "shortDescription": "Textured short-sleeve shirt with a creased finish and relaxed silhouette—perfect for effortless everyday styling",
+      "colour": "MARSALA",
+      "colourCode": "3564/137/172",
+      "category": {
+        "id": "687e8229cfbf0d42cb9a6735",
+        "name": "Woman Shirts",
+        "slug": "Woman-Shirts"
+      },
+      "subCategory": null,
+      "price": 10.99,
+      "image": [
+        "https://static.zara.net/assets/public/2f1d/d73b/48e2426c946b/48a31c50fb29/03564137172-p/03564137172-p.jpg?ts=1751021517401&w=1024",
+        "https://static.zara.net/assets/public/f29e/7b7f/232244b3a301/1b704f41a0dc/03564137172-a1/03564137172-a1.jpg?ts=1751021514496&w=1125",
+        "https://static.zara.net/assets/public/6824/2f7f/a2a54ff1b275/7a4010dbf0d9/03564137172-a2/03564137172-a2.jpg?ts=1751021512260&w=750",
+        "https://static.zara.net/assets/public/38eb/4963/08d54aaab0ef/d614e3aa9cc9/03564137172-a3/03564137172-a3.jpg?ts=1751021517820&w=750",
+        "https://static.zara.net/assets/public/65a0/dda4/7010462892e9/aa81850b7058/03564137172-a4/03564137172-a4.jpg?ts=1751021516072&w=750",
+        "https://static.zara.net/assets/public/bd64/b5a8/281b4dbdb8c7/ef2bbe1cdc47/03564137172-e1/03564137172-e1.jpg?ts=1749126310863&w=750",
+        "https://static.zara.net/assets/public/bd64/b5a8/281b4dbdb8c7/ef2bbe1cdc47/03564137172-e1/03564137172-e1.jpg?ts=1749126310863&w=750",
+        "https://static.zara.net/assets/public/1533/1d99/037646318acd/7a13adc039f8/03564137172-e2/03564137172-e2.jpg?ts=1749126310548&w=750",
+        "https://static.zara.net/assets/public/8091/7fac/2554413c8398/7c3cdd6a00e9/03564137172-e3/03564137172-e3.jpg?ts=1749126310689&w=750"
+      ],
+      "stock": "90",
+      "createdAt": "2025-07-25T21:13:58.031Z",
+      "updatedAt": "2025-07-25T21:13:58.031Z",
+      "__v": 0
+    }
+  ],
+  [
+    {
+      "_id": "6880d1563b795f8c034f2d11",
+      "name": "PEPLUM KNIT WAISTCOAT TOP",
+      "sku": "10003",
+      "description": "This peplum knit waistcoat top blends modern sophistication with timeless charm. Designed with a flattering cinched waist and structured silhouette, it’s perfect for layering or wearing solo. Crafted from a premium knit for all-day comfort, this versatile piece elevates both casual and formal looks effortlessly.",
+      "shortDescription": "Flattering peplum knit top with a structured waistcoat silhouette for everyday elegance.",
+      "colour": "White",
+      "colourCode": "#FFFFFF",
+      "category": {
+        "id": "687e7c743035fcdb1381f196",
+        "name": "Tops",
+        "slug": "Tops"
+      },
+      "price": 19.5,
+      "image": [
+        "https://static.zara.net/assets/public/6e21/340e/ec2a4d719b08/eab70ede8cb4/04192060250-a2/04192060250-a2.jpg?ts=1748357505424&w=1024",
+        "https://static.zara.net/assets/public/536a/221f/fbdd4a8eac78/9d12e3f7c9ea/04192060250-a3/04192060250-a3.jpg?ts=1748357505403&w=1125",
+        "https://static.zara.net/assets/public/be01/2ff6/840948fbb1cf/2010f6496d64/04192060250-p/04192060250-p.jpg?ts=1748357507112&w=750",
+        "https://static.zara.net/assets/public/367a/09cb/6d7e4f5b9125/8840c4568ac1/04192060250-a1/04192060250-a1.jpg?ts=1748357505298&w=750",
+        "https://static.zara.net/assets/public/2b3e/39f0/73ec4a92a98f/afc40ba37625/04192060250-e1/04192060250-e1.jpg?ts=1748258884662&w=750",
+        "https://static.zara.net/assets/public/2b3e/39f0/73ec4a92a98f/afc40ba37625/04192060250-e1/04192060250-e1.jpg?ts=1748258884662&w=750",
+        "https://static.zara.net/assets/public/7da2/d5f5/45114d0bb94f/2ec2006dcbca/04192060250-e2/04192060250-e2.jpg?ts=1748258884757&w=750",
+        "https://static.zara.net/assets/public/ae8f/9cf9/76bc4c5592fc/7ccfb847ea31/04192060250-e3/04192060250-e3.jpg?ts=1748258885100&w=750"
+      ],
+      "stock": "50",
+      "createdAt": "2025-07-23T12:11:02.353Z",
+      "updatedAt": "2025-07-24T02:54:18.930Z",
+      "__v": 0,
+      "subCategory": {
+        "id": "687e7fb33ba886365e76b1cf",
+        "name": "Peplum Top",
+        "slug": "Peplum-Top"
+      }
+    },
+    {
+      "_id": "6880d1c83b795f8c034f2d15",
+      "name": "Women's Classic White Ribbed T-Shirt",
+      "sku": "10001",
+      "description": "Elevate your casual wardrobe with this timeless white ribbed T-shirt. Crafted from a soft, breathable cotton blend, it features a flattering slim fit, crew neckline, and short sleeves. Designed for effortless versatility, it pairs seamlessly with your favorite denim, skirts, or tailored trousers.",
+      "shortDescription": "Round neck, short sleeve top. Ribbed trims",
+      "colour": "White",
+      "colourCode": "4661/049/251",
+      "category": {
+        "id": "687e7c743035fcdb1381f196",
+        "name": "Tops",
+        "slug": "Tops"
+      },
+      "price": 15.99,
+      "image": [
+        "https://static.zara.net/assets/public/3e5a/3f00/8f2f4768a16c/bfe9b4f07585/01509010250-p/01509010250-p.jpg?ts=1750863293277&w=1024",
+        "https://static.zara.net/assets/public/79b5/ebd0/bed1402d9b06/9beb2783a5fd/01509010250-a1/01509010250-a1.jpg?ts=1750863292694&w=1126",
+        "https://static.zara.net/assets/public/1858/f712/fe8a4a1b9ed2/d3886db100bf/01509010250-a2/01509010250-a2.jpg?ts=1750863292580&w=750",
+        "https://static.zara.net/assets/public/1070/9a2a/cf1f4e858d0e/4f78531d9b02/01509010250-e1/01509010250-e1.jpg?ts=1740482685902&w=750",
+        "https://static.zara.net/assets/public/bbe4/4e41/2d114a61a16a/b127c4ac9f19/08851001250-015-e2/08851001250-015-e2.jpg?ts=1746538086473&w=750",
+        "https://static.zara.net/assets/public/b583/b5f4/705949a6b4c4/10a6b2152b58/08851001250-015-e3/08851001250-015-e3.jpg?ts=1746538086721&w=750"
+      ],
+      "stock": "100",
+      "createdAt": "2025-07-23T12:12:56.019Z",
+      "updatedAt": "2025-07-24T02:54:42.270Z",
+      "__v": 0,
+      "subCategory": {
+        "id": "687e7fb33ba886365e76b1cf",
+        "name": "Peplum Top",
+        "slug": "Peplum-Top"
+      }
+    },
+    {
+      "_id": "6880d1df3b795f8c034f2d19",
+      "name": "CABLE KNIT PEPLUM TOP",
+      "sku": "10002",
+      "description": "Elevate your casual wardrobe with this timeless white ribbed T-shirt. Crafted from a soft, breathable cotton blend, it features a flattering slim fit, crew neckline, and short sleeves. Designed for effortless versatility, it pairs seamlessly with your favorite denim, skirts, or tailored trousers.",
+      "shortDescription": "Round neck, sleeveless top. Flared hem.",
+      "colour": "Ecru",
+      "colourCode": "3920/102/712",
+      "category": {
+        "id": "687e7c743035fcdb1381f196",
+        "name": "Tops",
+        "slug": "Tops"
+      },
+      "price": 15.99,
+      "image": [
+        "https://static.zara.net/assets/public/1be4/a3e4/d1ab4424a77a/20d33009c916/03920102712-p/03920102712-p.jpg?ts=1751542875108&w=1024",
+        "https://static.zara.net/assets/public/1e13/ded3/3c2f43a1a71d/9116180df1d5/03920102712-a1/03920102712-a1.jpg?ts=1751542873438&w=1126",
+        "https://static.zara.net/assets/public/b4fa/47e0/5f704a93b6a8/6c8d1e2f87c2/03920102712-a2/03920102712-a2.jpg?ts=1751542874480&w=750",
+        "https://static.zara.net/assets/public/81a2/77b9/606349a4ad6d/bc25cc6bd23e/03920102712-a3/03920102712-a3.jpg?ts=1751542874064&w=750",
+        "https://static.zara.net/assets/public/1e08/79a9/b8d44355ae8f/83d360962021/03920102712-a4/03920102712-a4.jpg?ts=1751542874294&w=750",
+        "https://static.zara.net/assets/public/1e08/79a9/b8d44355ae8f/83d360962021/03920102712-a4/03920102712-a4.jpg?ts=1751542874294&w=750",
+        "https://static.zara.net/assets/public/eec3/d78a/42cb40b6b453/604b9d830575/03920102712-e1/03920102712-e1.jpg?ts=1751629499532&w=750",
+        "https://static.zara.net/assets/public/78bb/e416/481942f09afb/9f3ccdf84da6/03920102712-e2/03920102712-e2.jpg?ts=1751629499140&w=750",
+        "https://static.zara.net/assets/public/91a8/05ec/501844a795bb/1647f06bee46/03920102712-e3/03920102712-e3.jpg?ts=1751629499380&w=750"
+      ],
+      "stock": "60",
+      "createdAt": "2025-07-23T12:13:19.517Z",
+      "updatedAt": "2025-07-24T02:54:58.938Z",
+      "__v": 0,
+      "subCategory": {
+        "id": "687e7fb33ba886365e76b1cf",
+        "name": "Peplum Top",
+        "slug": "Peplum-Top"
+      }
+    },
+    {
+      "_id": "6880d2f83b795f8c034f2d1d",
+      "name": "PEPLUM STRETCH TOP",
+      "sku": "10004",
+      "description": "This peplum stretch top adds a sleek, feminine touch to your wardrobe. Designed with a classic round neckline and sleeveless cut, it hugs the body while flaring at the hem for a flattering fit. Made from a comfortable stretch fabric, it's perfect for both casual styling and dressier occasions.",
+      "shortDescription": "Sleeveless stretch peplum top with a round neck and flared hem for a flattering, feminine silhouette.",
+      "colour": "Black",
+      "colourCode": "5584/150/800",
+      "category": {
+        "id": "687e7c743035fcdb1381f196",
+        "name": "Tops",
+        "slug": "Tops"
+      },
+      "price": 10.99,
+      "image": [
+        "https://static.zara.net/assets/public/724d/1e8f/9547405f81eb/18de7651c5db/05584150800-p/05584150800-p.jpg?ts=1745579799019&w=1024",
+        "https://static.zara.net/assets/public/4817/920e/a43e4523b8df/4c7ddfc06c6d/05584150800-a1/05584150800-a1.jpg?ts=1745579899376&w=1125",
+        "https://static.zara.net/assets/public/da71/c50a/141b43c8b97e/bd5aefff7527/05584150800-a2/05584150800-a2.jpg?ts=1745579899779&w=750",
+        "https://static.zara.net/assets/public/e6e0/5183/e02b4ac1a4ca/bc7075f6c505/05584150800-a3/05584150800-a3.jpg?ts=1745579899427&w=750",
+        "https://static.zara.net/assets/public/95a7/8a70/bfcd4a70b979/7a8b2c90fc81/05584150800-e1/05584150800-e1.jpg?ts=1745573068816&w=750",
+        "https://static.zara.net/assets/public/1494/99e0/25ec4b189454/ae69f4be5801/05584150800-e2/05584150800-e2.jpg?ts=1745573068572&w=750",
+        "https://static.zara.net/assets/public/5504/e4f4/d7754a7e9c90/74d17914f74f/05584150800-e3/05584150800-e3.jpg?ts=1745573068668&w=750"
+      ],
+      "stock": "100",
+      "createdAt": "2025-07-23T12:18:00.349Z",
+      "updatedAt": "2025-07-24T02:55:12.110Z",
+      "__v": 0,
+      "subCategory": {
+        "id": "687e7fb33ba886365e76b1cf",
+        "name": "Peplum Top",
+        "slug": "Peplum-Top"
+      }
+    },
+    {
+      "_id": "6880e3f53b795f8c034f2d21",
+      "name": "STRETCH PEPLUM TOP",
+      "sku": "10005",
+      "description": "Turn heads with this striking stretch peplum top in an intense red shade. Crafted for both comfort and shape, it features a sleeveless design, round neckline, and a cinched waist that flows into a bold flared hem. Perfect for adding a pop of confidence to your day or evening look.",
+      "shortDescription": "Bold sleeveless peplum top in stretch fabric, featuring a round neckline and dramatic flared hem.",
+      "colour": "Intense red",
+      "colourCode": "8280/333/601",
+      "category": {
+        "id": "687e7c743035fcdb1381f196",
+        "name": "Tops",
+        "slug": "Tops"
+      },
+      "price": 18.99,
+      "image": [
+        "https://static.zara.net/assets/public/cbf2/7c17/bf614e1aa38f/c0432670dd35/04764140601-p/04764140601-p.jpg?ts=1752593993204&w=1024",
+        "https://static.zara.net/assets/public/cf24/3117/6de6465b9e45/fe240c189358/04764140601-a1/04764140601-a1.jpg?ts=1752593993639&w=1125",
+        "https://static.zara.net/assets/public/ebc8/b231/130245cd85cc/0a7c8b5f3753/04764140601-a2/04764140601-a2.jpg?ts=1752593993525&w=750",
+        "https://static.zara.net/assets/public/c350/7a3b/824844c18076/8d1d37c68682/04764140601-a3/04764140601-a3.jpg?ts=1752593993473&w=750",
+        "https://static.zara.net/assets/public/4bd8/4908/877d4a82bc4b/99aacaa82888/04764140601-a4/04764140601-a4.jpg?ts=1752593993461&w=750",
+        "https://static.zara.net/assets/public/f6ab/43ec/e926455f977a/8bf339b7cedf/04764140601-e1/04764140601-e1.jpg?ts=1752587977692&w=750",
+        "https://static.zara.net/assets/public/4124/7c73/be5f4c40add8/7d9479952824/04764140601-e2/04764140601-e2.jpg?ts=1752587978122&w=750"
+      ],
+      "stock": "100",
+      "createdAt": "2025-07-23T13:30:29.572Z",
+      "updatedAt": "2025-07-24T02:55:27.172Z",
+      "__v": 0,
+      "subCategory": {
+        "id": "687e7fb33ba886365e76b1cf",
+        "name": "Peplum Top",
+        "slug": "Peplum-Top"
+      }
+    },
+    {
+      "_id": "6883f26cb0b3f8c68b2bbdf4",
+      "name": "ZW COLLECTION EMBROIDERED POCKET SHIRT",
+      "sku": "10006",
+      "description": "Elevate your wardrobe with this timeless brown shirt from the ZW Collection. Designed with long sleeves and a structured silhouette, it features a refined collar and a single embroidered chest pocket that adds a touch of detail. Crafted from high-quality fabric for both comfort and polish, this versatile piece pairs seamlessly with tailored trousers, denim, or layered under outerwear for a smart, modern look.",
+      "shortDescription": "Classic long-sleeve shirt featuring embroidered pocket detail and structured tailoring—ideal for refined everyday style.",
+      "colour": "Brown",
+      "colourCode": "4786/079/700",
+      "category": {
+        "id": "687e8229cfbf0d42cb9a6735",
+        "name": "Woman Shirts",
+        "slug": "Woman-Shirts"
+      },
+      "subCategory": {
+        "id": "687e837dcfbf0d42cb9a6740",
+        "name": "Tie-Front Tops",
+        "slug": "tie-front-tops"
+      },
+      "price": 20.99,
+      "image": [
+        "https://static.zara.net/assets/public/5409/334f/f5034cd0bf56/a06a9b2aac71/04786079700-p/04786079700-p.jpg?ts=1753090170022&w=1024",
+        "https://static.zara.net/assets/public/e35a/49a8/2288434b9a2a/a21e82c7bb35/04786079700-a1/04786079700-a1.jpg?ts=1753090171126&w=1125",
+        "https://static.zara.net/assets/public/b191/9a3e/485741009eb3/6343beb3add0/04786079700-a2/04786079700-a2.jpg?ts=1753090169671&w=750",
+        "https://static.zara.net/assets/public/a984/ee8d/27b745349c6f/51c826824d54/04786079700-a3/04786079700-a3.jpg?ts=1753090171132&w=750",
+        "https://static.zara.net/assets/public/f034/3cc9/642742edb84e/ad49b0b2f456/04786079700-a4/04786079700-a4.jpg?ts=1753090170096&w=750",
+        "https://static.zara.net/assets/public/f7c7/e7d3/cddf4f54b4ab/e35a4f3e7a0c/04786079700-a5/04786079700-a5.jpg?ts=1753090171826&w=750",
+        "https://static.zara.net/assets/public/5574/d25f/18bc4ffab148/20c332136a88/04786019700-e1/04786019700-e1.jpg?ts=1753114251455&w=750",
+        "https://static.zara.net/assets/public/70a1/c7a3/a11a424486de/5e865bb9efea/04786019700-e2/04786019700-e2.jpg?ts=1753114251996&w=750",
+        "https://static.zara.net/assets/public/1d0b/b19a/d95041edac23/c25101b6d884/04786019700-e3/04786019700-e3.jpg?ts=1753114252253&w=750"
+      ],
+      "stock": "50",
+      "createdAt": "2025-07-25T21:09:00.046Z",
+      "updatedAt": "2025-07-25T21:10:29.913Z",
+      "__v": 0
+    },
+    {
+      "_id": "6883f396b0b3f8c68b2bbdfa",
+      "name": "CREASED-EFFECT SHORT SLEEVE SHIRT",
+      "sku": "10007",
+      "description": "Add character to your wardrobe with this Marsala short-sleeve shirt featuring a distinctive creased-effect texture. Designed with a relaxed fit, dropped shoulders, and a classic collar, it strikes the perfect balance between structure and ease. The lightweight fabric and subtle sheen make it an ideal choice for warm-weather dressing, whether paired with denim, tailored shorts, or layered over a tank for a laid-back vibe.",
+      "shortDescription": "Textured short-sleeve shirt with a creased finish and relaxed silhouette—perfect for effortless everyday styling",
+      "colour": "MARSALA",
+      "colourCode": "3564/137/172",
+      "category": {
+        "id": "687e8229cfbf0d42cb9a6735",
+        "name": "Woman Shirts",
+        "slug": "Woman-Shirts"
+      },
+      "subCategory": null,
+      "price": 10.99,
+      "image": [
+        "https://static.zara.net/assets/public/2f1d/d73b/48e2426c946b/48a31c50fb29/03564137172-p/03564137172-p.jpg?ts=1751021517401&w=1024",
+        "https://static.zara.net/assets/public/f29e/7b7f/232244b3a301/1b704f41a0dc/03564137172-a1/03564137172-a1.jpg?ts=1751021514496&w=1125",
+        "https://static.zara.net/assets/public/6824/2f7f/a2a54ff1b275/7a4010dbf0d9/03564137172-a2/03564137172-a2.jpg?ts=1751021512260&w=750",
+        "https://static.zara.net/assets/public/38eb/4963/08d54aaab0ef/d614e3aa9cc9/03564137172-a3/03564137172-a3.jpg?ts=1751021517820&w=750",
+        "https://static.zara.net/assets/public/65a0/dda4/7010462892e9/aa81850b7058/03564137172-a4/03564137172-a4.jpg?ts=1751021516072&w=750",
+        "https://static.zara.net/assets/public/bd64/b5a8/281b4dbdb8c7/ef2bbe1cdc47/03564137172-e1/03564137172-e1.jpg?ts=1749126310863&w=750",
+        "https://static.zara.net/assets/public/bd64/b5a8/281b4dbdb8c7/ef2bbe1cdc47/03564137172-e1/03564137172-e1.jpg?ts=1749126310863&w=750",
+        "https://static.zara.net/assets/public/1533/1d99/037646318acd/7a13adc039f8/03564137172-e2/03564137172-e2.jpg?ts=1749126310548&w=750",
+        "https://static.zara.net/assets/public/8091/7fac/2554413c8398/7c3cdd6a00e9/03564137172-e3/03564137172-e3.jpg?ts=1749126310689&w=750"
+      ],
+      "stock": "90",
+      "createdAt": "2025-07-25T21:13:58.031Z",
+      "updatedAt": "2025-07-25T21:13:58.031Z",
+      "__v": 0
+    }
+  ],
+  [
+    {
+      "_id": "6880d1563b795f8c034f2d11",
+      "name": "PEPLUM KNIT WAISTCOAT TOP",
+      "sku": "10003",
+      "description": "This peplum knit waistcoat top blends modern sophistication with timeless charm. Designed with a flattering cinched waist and structured silhouette, it’s perfect for layering or wearing solo. Crafted from a premium knit for all-day comfort, this versatile piece elevates both casual and formal looks effortlessly.",
+      "shortDescription": "Flattering peplum knit top with a structured waistcoat silhouette for everyday elegance.",
+      "colour": "White",
+      "colourCode": "#FFFFFF",
+      "category": {
+        "id": "687e7c743035fcdb1381f196",
+        "name": "Tops",
+        "slug": "Tops"
+      },
+      "price": 19.5,
+      "image": [
+        "https://static.zara.net/assets/public/6e21/340e/ec2a4d719b08/eab70ede8cb4/04192060250-a2/04192060250-a2.jpg?ts=1748357505424&w=1024",
+        "https://static.zara.net/assets/public/536a/221f/fbdd4a8eac78/9d12e3f7c9ea/04192060250-a3/04192060250-a3.jpg?ts=1748357505403&w=1125",
+        "https://static.zara.net/assets/public/be01/2ff6/840948fbb1cf/2010f6496d64/04192060250-p/04192060250-p.jpg?ts=1748357507112&w=750",
+        "https://static.zara.net/assets/public/367a/09cb/6d7e4f5b9125/8840c4568ac1/04192060250-a1/04192060250-a1.jpg?ts=1748357505298&w=750",
+        "https://static.zara.net/assets/public/2b3e/39f0/73ec4a92a98f/afc40ba37625/04192060250-e1/04192060250-e1.jpg?ts=1748258884662&w=750",
+        "https://static.zara.net/assets/public/2b3e/39f0/73ec4a92a98f/afc40ba37625/04192060250-e1/04192060250-e1.jpg?ts=1748258884662&w=750",
+        "https://static.zara.net/assets/public/7da2/d5f5/45114d0bb94f/2ec2006dcbca/04192060250-e2/04192060250-e2.jpg?ts=1748258884757&w=750",
+        "https://static.zara.net/assets/public/ae8f/9cf9/76bc4c5592fc/7ccfb847ea31/04192060250-e3/04192060250-e3.jpg?ts=1748258885100&w=750"
+      ],
+      "stock": "50",
+      "createdAt": "2025-07-23T12:11:02.353Z",
+      "updatedAt": "2025-07-24T02:54:18.930Z",
+      "__v": 0,
+      "subCategory": {
+        "id": "687e7fb33ba886365e76b1cf",
+        "name": "Peplum Top",
+        "slug": "Peplum-Top"
+      }
+    },
+    {
+      "_id": "6880d1c83b795f8c034f2d15",
+      "name": "Women's Classic White Ribbed T-Shirt",
+      "sku": "10001",
+      "description": "Elevate your casual wardrobe with this timeless white ribbed T-shirt. Crafted from a soft, breathable cotton blend, it features a flattering slim fit, crew neckline, and short sleeves. Designed for effortless versatility, it pairs seamlessly with your favorite denim, skirts, or tailored trousers.",
+      "shortDescription": "Round neck, short sleeve top. Ribbed trims",
+      "colour": "White",
+      "colourCode": "4661/049/251",
+      "category": {
+        "id": "687e7c743035fcdb1381f196",
+        "name": "Tops",
+        "slug": "Tops"
+      },
+      "price": 15.99,
+      "image": [
+        "https://static.zara.net/assets/public/3e5a/3f00/8f2f4768a16c/bfe9b4f07585/01509010250-p/01509010250-p.jpg?ts=1750863293277&w=1024",
+        "https://static.zara.net/assets/public/79b5/ebd0/bed1402d9b06/9beb2783a5fd/01509010250-a1/01509010250-a1.jpg?ts=1750863292694&w=1126",
+        "https://static.zara.net/assets/public/1858/f712/fe8a4a1b9ed2/d3886db100bf/01509010250-a2/01509010250-a2.jpg?ts=1750863292580&w=750",
+        "https://static.zara.net/assets/public/1070/9a2a/cf1f4e858d0e/4f78531d9b02/01509010250-e1/01509010250-e1.jpg?ts=1740482685902&w=750",
+        "https://static.zara.net/assets/public/bbe4/4e41/2d114a61a16a/b127c4ac9f19/08851001250-015-e2/08851001250-015-e2.jpg?ts=1746538086473&w=750",
+        "https://static.zara.net/assets/public/b583/b5f4/705949a6b4c4/10a6b2152b58/08851001250-015-e3/08851001250-015-e3.jpg?ts=1746538086721&w=750"
+      ],
+      "stock": "100",
+      "createdAt": "2025-07-23T12:12:56.019Z",
+      "updatedAt": "2025-07-24T02:54:42.270Z",
+      "__v": 0,
+      "subCategory": {
+        "id": "687e7fb33ba886365e76b1cf",
+        "name": "Peplum Top",
+        "slug": "Peplum-Top"
+      }
+    },
+    {
+      "_id": "6880d1df3b795f8c034f2d19",
+      "name": "CABLE KNIT PEPLUM TOP",
+      "sku": "10002",
+      "description": "Elevate your casual wardrobe with this timeless white ribbed T-shirt. Crafted from a soft, breathable cotton blend, it features a flattering slim fit, crew neckline, and short sleeves. Designed for effortless versatility, it pairs seamlessly with your favorite denim, skirts, or tailored trousers.",
+      "shortDescription": "Round neck, sleeveless top. Flared hem.",
+      "colour": "Ecru",
+      "colourCode": "3920/102/712",
+      "category": {
+        "id": "687e7c743035fcdb1381f196",
+        "name": "Tops",
+        "slug": "Tops"
+      },
+      "price": 15.99,
+      "image": [
+        "https://static.zara.net/assets/public/1be4/a3e4/d1ab4424a77a/20d33009c916/03920102712-p/03920102712-p.jpg?ts=1751542875108&w=1024",
+        "https://static.zara.net/assets/public/1e13/ded3/3c2f43a1a71d/9116180df1d5/03920102712-a1/03920102712-a1.jpg?ts=1751542873438&w=1126",
+        "https://static.zara.net/assets/public/b4fa/47e0/5f704a93b6a8/6c8d1e2f87c2/03920102712-a2/03920102712-a2.jpg?ts=1751542874480&w=750",
+        "https://static.zara.net/assets/public/81a2/77b9/606349a4ad6d/bc25cc6bd23e/03920102712-a3/03920102712-a3.jpg?ts=1751542874064&w=750",
+        "https://static.zara.net/assets/public/1e08/79a9/b8d44355ae8f/83d360962021/03920102712-a4/03920102712-a4.jpg?ts=1751542874294&w=750",
+        "https://static.zara.net/assets/public/1e08/79a9/b8d44355ae8f/83d360962021/03920102712-a4/03920102712-a4.jpg?ts=1751542874294&w=750",
+        "https://static.zara.net/assets/public/eec3/d78a/42cb40b6b453/604b9d830575/03920102712-e1/03920102712-e1.jpg?ts=1751629499532&w=750",
+        "https://static.zara.net/assets/public/78bb/e416/481942f09afb/9f3ccdf84da6/03920102712-e2/03920102712-e2.jpg?ts=1751629499140&w=750",
+        "https://static.zara.net/assets/public/91a8/05ec/501844a795bb/1647f06bee46/03920102712-e3/03920102712-e3.jpg?ts=1751629499380&w=750"
+      ],
+      "stock": "60",
+      "createdAt": "2025-07-23T12:13:19.517Z",
+      "updatedAt": "2025-07-24T02:54:58.938Z",
+      "__v": 0,
+      "subCategory": {
+        "id": "687e7fb33ba886365e76b1cf",
+        "name": "Peplum Top",
+        "slug": "Peplum-Top"
+      }
+    },
+    {
+      "_id": "6880d2f83b795f8c034f2d1d",
+      "name": "PEPLUM STRETCH TOP",
+      "sku": "10004",
+      "description": "This peplum stretch top adds a sleek, feminine touch to your wardrobe. Designed with a classic round neckline and sleeveless cut, it hugs the body while flaring at the hem for a flattering fit. Made from a comfortable stretch fabric, it's perfect for both casual styling and dressier occasions.",
+      "shortDescription": "Sleeveless stretch peplum top with a round neck and flared hem for a flattering, feminine silhouette.",
+      "colour": "Black",
+      "colourCode": "5584/150/800",
+      "category": {
+        "id": "687e7c743035fcdb1381f196",
+        "name": "Tops",
+        "slug": "Tops"
+      },
+      "price": 10.99,
+      "image": [
+        "https://static.zara.net/assets/public/724d/1e8f/9547405f81eb/18de7651c5db/05584150800-p/05584150800-p.jpg?ts=1745579799019&w=1024",
+        "https://static.zara.net/assets/public/4817/920e/a43e4523b8df/4c7ddfc06c6d/05584150800-a1/05584150800-a1.jpg?ts=1745579899376&w=1125",
+        "https://static.zara.net/assets/public/da71/c50a/141b43c8b97e/bd5aefff7527/05584150800-a2/05584150800-a2.jpg?ts=1745579899779&w=750",
+        "https://static.zara.net/assets/public/e6e0/5183/e02b4ac1a4ca/bc7075f6c505/05584150800-a3/05584150800-a3.jpg?ts=1745579899427&w=750",
+        "https://static.zara.net/assets/public/95a7/8a70/bfcd4a70b979/7a8b2c90fc81/05584150800-e1/05584150800-e1.jpg?ts=1745573068816&w=750",
+        "https://static.zara.net/assets/public/1494/99e0/25ec4b189454/ae69f4be5801/05584150800-e2/05584150800-e2.jpg?ts=1745573068572&w=750",
+        "https://static.zara.net/assets/public/5504/e4f4/d7754a7e9c90/74d17914f74f/05584150800-e3/05584150800-e3.jpg?ts=1745573068668&w=750"
+      ],
+      "stock": "100",
+      "createdAt": "2025-07-23T12:18:00.349Z",
+      "updatedAt": "2025-07-24T02:55:12.110Z",
+      "__v": 0,
+      "subCategory": {
+        "id": "687e7fb33ba886365e76b1cf",
+        "name": "Peplum Top",
+        "slug": "Peplum-Top"
+      }
+    },
+    {
+      "_id": "6880e3f53b795f8c034f2d21",
+      "name": "STRETCH PEPLUM TOP",
+      "sku": "10005",
+      "description": "Turn heads with this striking stretch peplum top in an intense red shade. Crafted for both comfort and shape, it features a sleeveless design, round neckline, and a cinched waist that flows into a bold flared hem. Perfect for adding a pop of confidence to your day or evening look.",
+      "shortDescription": "Bold sleeveless peplum top in stretch fabric, featuring a round neckline and dramatic flared hem.",
+      "colour": "Intense red",
+      "colourCode": "8280/333/601",
+      "category": {
+        "id": "687e7c743035fcdb1381f196",
+        "name": "Tops",
+        "slug": "Tops"
+      },
+      "price": 18.99,
+      "image": [
+        "https://static.zara.net/assets/public/cbf2/7c17/bf614e1aa38f/c0432670dd35/04764140601-p/04764140601-p.jpg?ts=1752593993204&w=1024",
+        "https://static.zara.net/assets/public/cf24/3117/6de6465b9e45/fe240c189358/04764140601-a1/04764140601-a1.jpg?ts=1752593993639&w=1125",
+        "https://static.zara.net/assets/public/ebc8/b231/130245cd85cc/0a7c8b5f3753/04764140601-a2/04764140601-a2.jpg?ts=1752593993525&w=750",
+        "https://static.zara.net/assets/public/c350/7a3b/824844c18076/8d1d37c68682/04764140601-a3/04764140601-a3.jpg?ts=1752593993473&w=750",
+        "https://static.zara.net/assets/public/4bd8/4908/877d4a82bc4b/99aacaa82888/04764140601-a4/04764140601-a4.jpg?ts=1752593993461&w=750",
+        "https://static.zara.net/assets/public/f6ab/43ec/e926455f977a/8bf339b7cedf/04764140601-e1/04764140601-e1.jpg?ts=1752587977692&w=750",
+        "https://static.zara.net/assets/public/4124/7c73/be5f4c40add8/7d9479952824/04764140601-e2/04764140601-e2.jpg?ts=1752587978122&w=750"
+      ],
+      "stock": "100",
+      "createdAt": "2025-07-23T13:30:29.572Z",
+      "updatedAt": "2025-07-24T02:55:27.172Z",
+      "__v": 0,
+      "subCategory": {
+        "id": "687e7fb33ba886365e76b1cf",
+        "name": "Peplum Top",
+        "slug": "Peplum-Top"
+      }
+    },
+    {
+      "_id": "6883f26cb0b3f8c68b2bbdf4",
+      "name": "ZW COLLECTION EMBROIDERED POCKET SHIRT",
+      "sku": "10006",
+      "description": "Elevate your wardrobe with this timeless brown shirt from the ZW Collection. Designed with long sleeves and a structured silhouette, it features a refined collar and a single embroidered chest pocket that adds a touch of detail. Crafted from high-quality fabric for both comfort and polish, this versatile piece pairs seamlessly with tailored trousers, denim, or layered under outerwear for a smart, modern look.",
+      "shortDescription": "Classic long-sleeve shirt featuring embroidered pocket detail and structured tailoring—ideal for refined everyday style.",
+      "colour": "Brown",
+      "colourCode": "4786/079/700",
+      "category": {
+        "id": "687e8229cfbf0d42cb9a6735",
+        "name": "Woman Shirts",
+        "slug": "Woman-Shirts"
+      },
+      "subCategory": {
+        "id": "687e837dcfbf0d42cb9a6740",
+        "name": "Tie-Front Tops",
+        "slug": "tie-front-tops"
+      },
+      "price": 20.99,
+      "image": [
+        "https://static.zara.net/assets/public/5409/334f/f5034cd0bf56/a06a9b2aac71/04786079700-p/04786079700-p.jpg?ts=1753090170022&w=1024",
+        "https://static.zara.net/assets/public/e35a/49a8/2288434b9a2a/a21e82c7bb35/04786079700-a1/04786079700-a1.jpg?ts=1753090171126&w=1125",
+        "https://static.zara.net/assets/public/b191/9a3e/485741009eb3/6343beb3add0/04786079700-a2/04786079700-a2.jpg?ts=1753090169671&w=750",
+        "https://static.zara.net/assets/public/a984/ee8d/27b745349c6f/51c826824d54/04786079700-a3/04786079700-a3.jpg?ts=1753090171132&w=750",
+        "https://static.zara.net/assets/public/f034/3cc9/642742edb84e/ad49b0b2f456/04786079700-a4/04786079700-a4.jpg?ts=1753090170096&w=750",
+        "https://static.zara.net/assets/public/f7c7/e7d3/cddf4f54b4ab/e35a4f3e7a0c/04786079700-a5/04786079700-a5.jpg?ts=1753090171826&w=750",
+        "https://static.zara.net/assets/public/5574/d25f/18bc4ffab148/20c332136a88/04786019700-e1/04786019700-e1.jpg?ts=1753114251455&w=750",
+        "https://static.zara.net/assets/public/70a1/c7a3/a11a424486de/5e865bb9efea/04786019700-e2/04786019700-e2.jpg?ts=1753114251996&w=750",
+        "https://static.zara.net/assets/public/1d0b/b19a/d95041edac23/c25101b6d884/04786019700-e3/04786019700-e3.jpg?ts=1753114252253&w=750"
+      ],
+      "stock": "50",
+      "createdAt": "2025-07-25T21:09:00.046Z",
+      "updatedAt": "2025-07-25T21:10:29.913Z",
+      "__v": 0
+    },
+    {
+      "_id": "6883f396b0b3f8c68b2bbdfa",
+      "name": "CREASED-EFFECT SHORT SLEEVE SHIRT",
+      "sku": "10007",
+      "description": "Add character to your wardrobe with this Marsala short-sleeve shirt featuring a distinctive creased-effect texture. Designed with a relaxed fit, dropped shoulders, and a classic collar, it strikes the perfect balance between structure and ease. The lightweight fabric and subtle sheen make it an ideal choice for warm-weather dressing, whether paired with denim, tailored shorts, or layered over a tank for a laid-back vibe.",
+      "shortDescription": "Textured short-sleeve shirt with a creased finish and relaxed silhouette—perfect for effortless everyday styling",
+      "colour": "MARSALA",
+      "colourCode": "3564/137/172",
+      "category": {
+        "id": "687e8229cfbf0d42cb9a6735",
+        "name": "Woman Shirts",
+        "slug": "Woman-Shirts"
+      },
+      "subCategory": null,
+      "price": 10.99,
+      "image": [
+        "https://static.zara.net/assets/public/2f1d/d73b/48e2426c946b/48a31c50fb29/03564137172-p/03564137172-p.jpg?ts=1751021517401&w=1024",
+        "https://static.zara.net/assets/public/f29e/7b7f/232244b3a301/1b704f41a0dc/03564137172-a1/03564137172-a1.jpg?ts=1751021514496&w=1125",
+        "https://static.zara.net/assets/public/6824/2f7f/a2a54ff1b275/7a4010dbf0d9/03564137172-a2/03564137172-a2.jpg?ts=1751021512260&w=750",
+        "https://static.zara.net/assets/public/38eb/4963/08d54aaab0ef/d614e3aa9cc9/03564137172-a3/03564137172-a3.jpg?ts=1751021517820&w=750",
+        "https://static.zara.net/assets/public/65a0/dda4/7010462892e9/aa81850b7058/03564137172-a4/03564137172-a4.jpg?ts=1751021516072&w=750",
+        "https://static.zara.net/assets/public/bd64/b5a8/281b4dbdb8c7/ef2bbe1cdc47/03564137172-e1/03564137172-e1.jpg?ts=1749126310863&w=750",
+        "https://static.zara.net/assets/public/bd64/b5a8/281b4dbdb8c7/ef2bbe1cdc47/03564137172-e1/03564137172-e1.jpg?ts=1749126310863&w=750",
+        "https://static.zara.net/assets/public/1533/1d99/037646318acd/7a13adc039f8/03564137172-e2/03564137172-e2.jpg?ts=1749126310548&w=750",
+        "https://static.zara.net/assets/public/8091/7fac/2554413c8398/7c3cdd6a00e9/03564137172-e3/03564137172-e3.jpg?ts=1749126310689&w=750"
+      ],
+      "stock": "90",
+      "createdAt": "2025-07-25T21:13:58.031Z",
+      "updatedAt": "2025-07-25T21:13:58.031Z",
+      "__v": 0
+    }
+  ],
+  [
+    {
+      "name": "PEPLUM KNIT WAISTCOAT TOP",
+      "sku": "10003",
+      "shortDescription": "Flattering peplum knit top with a structured waistcoat silhouette for everyday elegance.",
+      "colour": "White",
+      "colourCode": "#FFFFFF",
+      "price": 19.5,
+      "image": [
+        "https://static.zara.net/assets/public/6e21/340e/ec2a4d719b08/eab70ede8cb4/04192060250-a2/04192060250-a2.jpg?ts=1748357505424&w=1024",
+        "https://static.zara.net/assets/public/536a/221f/fbdd4a8eac78/9d12e3f7c9ea/04192060250-a3/04192060250-a3.jpg?ts=1748357505403&w=1125",
+        "https://static.zara.net/assets/public/be01/2ff6/840948fbb1cf/2010f6496d64/04192060250-p/04192060250-p.jpg?ts=1748357507112&w=750",
+        "https://static.zara.net/assets/public/367a/09cb/6d7e4f5b9125/8840c4568ac1/04192060250-a1/04192060250-a1.jpg?ts=1748357505298&w=750",
+        "https://static.zara.net/assets/public/2b3e/39f0/73ec4a92a98f/afc40ba37625/04192060250-e1/04192060250-e1.jpg?ts=1748258884662&w=750",
+        "https://static.zara.net/assets/public/2b3e/39f0/73ec4a92a98f/afc40ba37625/04192060250-e1/04192060250-e1.jpg?ts=1748258884662&w=750",
+        "https://static.zara.net/assets/public/7da2/d5f5/45114d0bb94f/2ec2006dcbca/04192060250-e2/04192060250-e2.jpg?ts=1748258884757&w=750",
+        "https://static.zara.net/assets/public/ae8f/9cf9/76bc4c5592fc/7ccfb847ea31/04192060250-e3/04192060250-e3.jpg?ts=1748258885100&w=750"
+      ],
+      "stock": "50",
+      "category": {
+        "id": "687e7c743035fcdb1381f196",
+        "name": "Tops",
+        "slug": "Tops"
+      },
+      "subCategory": {
+        "id": "687e7fb33ba886365e76b1cf",
+        "name": "Peplum Top",
+        "slug": "Peplum-Top"
+      }
+    },
+    {
+      "name": "Women's Classic White Ribbed T-Shirt",
+      "sku": "10001",
+      "shortDescription": "Round neck, short sleeve top. Ribbed trims",
+      "colour": "White",
+      "colourCode": "4661/049/251",
+      "price": 15.99,
+      "image": [
+        "https://static.zara.net/assets/public/3e5a/3f00/8f2f4768a16c/bfe9b4f07585/01509010250-p/01509010250-p.jpg?ts=1750863293277&w=1024",
+        "https://static.zara.net/assets/public/79b5/ebd0/bed1402d9b06/9beb2783a5fd/01509010250-a1/01509010250-a1.jpg?ts=1750863292694&w=1126",
+        "https://static.zara.net/assets/public/1858/f712/fe8a4a1b9ed2/d3886db100bf/01509010250-a2/01509010250-a2.jpg?ts=1750863292580&w=750",
+        "https://static.zara.net/assets/public/1070/9a2a/cf1f4e858d0e/4f78531d9b02/01509010250-e1/01509010250-e1.jpg?ts=1740482685902&w=750",
+        "https://static.zara.net/assets/public/bbe4/4e41/2d114a61a16a/b127c4ac9f19/08851001250-015-e2/08851001250-015-e2.jpg?ts=1746538086473&w=750",
+        "https://static.zara.net/assets/public/b583/b5f4/705949a6b4c4/10a6b2152b58/08851001250-015-e3/08851001250-015-e3.jpg?ts=1746538086721&w=750"
+      ],
+      "stock": "100",
+      "category": {
+        "id": "687e7c743035fcdb1381f196",
+        "name": "Tops",
+        "slug": "Tops"
+      },
+      "subCategory": {
+        "id": "687e7fb33ba886365e76b1cf",
+        "name": "Peplum Top",
+        "slug": "Peplum-Top"
+      }
+    },
+    {
+      "name": "CABLE KNIT PEPLUM TOP",
+      "sku": "10002",
+      "shortDescription": "Round neck, sleeveless top. Flared hem.",
+      "colour": "Ecru",
+      "colourCode": "3920/102/712",
+      "price": 15.99,
+      "image": [
+        "https://static.zara.net/assets/public/1be4/a3e4/d1ab4424a77a/20d33009c916/03920102712-p/03920102712-p.jpg?ts=1751542875108&w=1024",
+        "https://static.zara.net/assets/public/1e13/ded3/3c2f43a1a71d/9116180df1d5/03920102712-a1/03920102712-a1.jpg?ts=1751542873438&w=1126",
+        "https://static.zara.net/assets/public/b4fa/47e0/5f704a93b6a8/6c8d1e2f87c2/03920102712-a2/03920102712-a2.jpg?ts=1751542874480&w=750",
+        "https://static.zara.net/assets/public/81a2/77b9/606349a4ad6d/bc25cc6bd23e/03920102712-a3/03920102712-a3.jpg?ts=1751542874064&w=750",
+        "https://static.zara.net/assets/public/1e08/79a9/b8d44355ae8f/83d360962021/03920102712-a4/03920102712-a4.jpg?ts=1751542874294&w=750",
+        "https://static.zara.net/assets/public/1e08/79a9/b8d44355ae8f/83d360962021/03920102712-a4/03920102712-a4.jpg?ts=1751542874294&w=750",
+        "https://static.zara.net/assets/public/eec3/d78a/42cb40b6b453/604b9d830575/03920102712-e1/03920102712-e1.jpg?ts=1751629499532&w=750",
+        "https://static.zara.net/assets/public/78bb/e416/481942f09afb/9f3ccdf84da6/03920102712-e2/03920102712-e2.jpg?ts=1751629499140&w=750",
+        "https://static.zara.net/assets/public/91a8/05ec/501844a795bb/1647f06bee46/03920102712-e3/03920102712-e3.jpg?ts=1751629499380&w=750"
+      ],
+      "stock": "60",
+      "category": {
+        "id": "687e7c743035fcdb1381f196",
+        "name": "Tops",
+        "slug": "Tops"
+      },
+      "subCategory": {
+        "id": "687e7fb33ba886365e76b1cf",
+        "name": "Peplum Top",
+        "slug": "Peplum-Top"
+      }
+    },
+    {
+      "name": "PEPLUM STRETCH TOP",
+      "sku": "10004",
+      "shortDescription": "Sleeveless stretch peplum top with a round neck and flared hem for a flattering, feminine silhouette.",
+      "colour": "Black",
+      "colourCode": "5584/150/800",
+      "price": 10.99,
+      "image": [
+        "https://static.zara.net/assets/public/724d/1e8f/9547405f81eb/18de7651c5db/05584150800-p/05584150800-p.jpg?ts=1745579799019&w=1024",
+        "https://static.zara.net/assets/public/4817/920e/a43e4523b8df/4c7ddfc06c6d/05584150800-a1/05584150800-a1.jpg?ts=1745579899376&w=1125",
+        "https://static.zara.net/assets/public/da71/c50a/141b43c8b97e/bd5aefff7527/05584150800-a2/05584150800-a2.jpg?ts=1745579899779&w=750",
+        "https://static.zara.net/assets/public/e6e0/5183/e02b4ac1a4ca/bc7075f6c505/05584150800-a3/05584150800-a3.jpg?ts=1745579899427&w=750",
+        "https://static.zara.net/assets/public/95a7/8a70/bfcd4a70b979/7a8b2c90fc81/05584150800-e1/05584150800-e1.jpg?ts=1745573068816&w=750",
+        "https://static.zara.net/assets/public/1494/99e0/25ec4b189454/ae69f4be5801/05584150800-e2/05584150800-e2.jpg?ts=1745573068572&w=750",
+        "https://static.zara.net/assets/public/5504/e4f4/d7754a7e9c90/74d17914f74f/05584150800-e3/05584150800-e3.jpg?ts=1745573068668&w=750"
+      ],
+      "stock": "100",
+      "category": {
+        "id": "687e7c743035fcdb1381f196",
+        "name": "Tops",
+        "slug": "Tops"
+      },
+      "subCategory": {
+        "id": "687e7fb33ba886365e76b1cf",
+        "name": "Peplum Top",
+        "slug": "Peplum-Top"
+      }
+    },
+    {
+      "name": "STRETCH PEPLUM TOP",
+      "sku": "10005",
+      "shortDescription": "Bold sleeveless peplum top in stretch fabric, featuring a round neckline and dramatic flared hem.",
+      "colour": "Intense red",
+      "colourCode": "8280/333/601",
+      "price": 18.99,
+      "image": [
+        "https://static.zara.net/assets/public/cbf2/7c17/bf614e1aa38f/c0432670dd35/04764140601-p/04764140601-p.jpg?ts=1752593993204&w=1024",
+        "https://static.zara.net/assets/public/cf24/3117/6de6465b9e45/fe240c189358/04764140601-a1/04764140601-a1.jpg?ts=1752593993639&w=1125",
+        "https://static.zara.net/assets/public/ebc8/b231/130245cd85cc/0a7c8b5f3753/04764140601-a2/04764140601-a2.jpg?ts=1752593993525&w=750",
+        "https://static.zara.net/assets/public/c350/7a3b/824844c18076/8d1d37c68682/04764140601-a3/04764140601-a3.jpg?ts=1752593993473&w=750",
+        "https://static.zara.net/assets/public/4bd8/4908/877d4a82bc4b/99aacaa82888/04764140601-a4/04764140601-a4.jpg?ts=1752593993461&w=750",
+        "https://static.zara.net/assets/public/f6ab/43ec/e926455f977a/8bf339b7cedf/04764140601-e1/04764140601-e1.jpg?ts=1752587977692&w=750",
+        "https://static.zara.net/assets/public/4124/7c73/be5f4c40add8/7d9479952824/04764140601-e2/04764140601-e2.jpg?ts=1752587978122&w=750"
+      ],
+      "stock": "100",
+      "category": {
+        "id": "687e7c743035fcdb1381f196",
+        "name": "Tops",
+        "slug": "Tops"
+      },
+      "subCategory": {
+        "id": "687e7fb33ba886365e76b1cf",
+        "name": "Peplum Top",
+        "slug": "Peplum-Top"
+      }
+    },
+    {
+      "name": "ZW COLLECTION EMBROIDERED POCKET SHIRT",
+      "sku": "10006",
+      "shortDescription": "Classic long-sleeve shirt featuring embroidered pocket detail and structured tailoring—ideal for refined everyday style.",
+      "colour": "Brown",
+      "colourCode": "4786/079/700",
+      "price": 20.99,
+      "image": [
+        "https://static.zara.net/assets/public/5409/334f/f5034cd0bf56/a06a9b2aac71/04786079700-p/04786079700-p.jpg?ts=1753090170022&w=1024",
+        "https://static.zara.net/assets/public/e35a/49a8/2288434b9a2a/a21e82c7bb35/04786079700-a1/04786079700-a1.jpg?ts=1753090171126&w=1125",
+        "https://static.zara.net/assets/public/b191/9a3e/485741009eb3/6343beb3add0/04786079700-a2/04786079700-a2.jpg?ts=1753090169671&w=750",
+        "https://static.zara.net/assets/public/a984/ee8d/27b745349c6f/51c826824d54/04786079700-a3/04786079700-a3.jpg?ts=1753090171132&w=750",
+        "https://static.zara.net/assets/public/f034/3cc9/642742edb84e/ad49b0b2f456/04786079700-a4/04786079700-a4.jpg?ts=1753090170096&w=750",
+        "https://static.zara.net/assets/public/f7c7/e7d3/cddf4f54b4ab/e35a4f3e7a0c/04786079700-a5/04786079700-a5.jpg?ts=1753090171826&w=750",
+        "https://static.zara.net/assets/public/5574/d25f/18bc4ffab148/20c332136a88/04786019700-e1/04786019700-e1.jpg?ts=1753114251455&w=750",
+        "https://static.zara.net/assets/public/70a1/c7a3/a11a424486de/5e865bb9efea/04786019700-e2/04786019700-e2.jpg?ts=1753114251996&w=750",
+        "https://static.zara.net/assets/public/1d0b/b19a/d95041edac23/c25101b6d884/04786019700-e3/04786019700-e3.jpg?ts=1753114252253&w=750"
+      ],
+      "stock": "50",
+      "category": {
+        "id": "687e8229cfbf0d42cb9a6735",
+        "name": "Woman Shirts",
+        "slug": "Woman-Shirts"
+      },
+      "subCategory": {
+        "id": "687e837dcfbf0d42cb9a6740",
+        "name": "Tie-Front Tops",
+        "slug": "tie-front-tops"
+      }
+    },
+    {
+      "name": "CREASED-EFFECT SHORT SLEEVE SHIRT",
+      "sku": "10007",
+      "shortDescription": "Textured short-sleeve shirt with a creased finish and relaxed silhouette—perfect for effortless everyday styling",
+      "colour": "MARSALA",
+      "colourCode": "3564/137/172",
+      "price": 10.99,
+      "image": [
+        "https://static.zara.net/assets/public/2f1d/d73b/48e2426c946b/48a31c50fb29/03564137172-p/03564137172-p.jpg?ts=1751021517401&w=1024",
+        "https://static.zara.net/assets/public/f29e/7b7f/232244b3a301/1b704f41a0dc/03564137172-a1/03564137172-a1.jpg?ts=1751021514496&w=1125",
+        "https://static.zara.net/assets/public/6824/2f7f/a2a54ff1b275/7a4010dbf0d9/03564137172-a2/03564137172-a2.jpg?ts=1751021512260&w=750",
+        "https://static.zara.net/assets/public/38eb/4963/08d54aaab0ef/d614e3aa9cc9/03564137172-a3/03564137172-a3.jpg?ts=1751021517820&w=750",
+        "https://static.zara.net/assets/public/65a0/dda4/7010462892e9/aa81850b7058/03564137172-a4/03564137172-a4.jpg?ts=1751021516072&w=750",
+        "https://static.zara.net/assets/public/bd64/b5a8/281b4dbdb8c7/ef2bbe1cdc47/03564137172-e1/03564137172-e1.jpg?ts=1749126310863&w=750",
+        "https://static.zara.net/assets/public/bd64/b5a8/281b4dbdb8c7/ef2bbe1cdc47/03564137172-e1/03564137172-e1.jpg?ts=1749126310863&w=750",
+        "https://static.zara.net/assets/public/1533/1d99/037646318acd/7a13adc039f8/03564137172-e2/03564137172-e2.jpg?ts=1749126310548&w=750",
+        "https://static.zara.net/assets/public/8091/7fac/2554413c8398/7c3cdd6a00e9/03564137172-e3/03564137172-e3.jpg?ts=1749126310689&w=750"
+      ],
+      "stock": "90",
+      "category": {
+        "id": "687e8229cfbf0d42cb9a6735",
+        "name": "Woman Shirts",
+        "slug": "Woman-Shirts"
+      },
+      "subCategory": null
+    }
+  ]
+]
