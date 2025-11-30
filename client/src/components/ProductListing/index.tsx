@@ -1,7 +1,6 @@
 "use client";
 import React from "react";
 import ProductTile from "./productTile";
-import { Product } from "../ProductDetails/productInformation";
 import type { Hit } from "instantsearch.js";
 
 interface ProductIndexProps {
