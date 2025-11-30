@@ -4,38 +4,19 @@ import ProductTile from "./productTile";
 import { Product } from "../ProductDetails/productInformation";
 
 interface ProductIndexProps {
-  slug: string;
-  subcategory?: string;
+  hit: any;
+  sendEvent: any;
+  parentCategory: string;
+  subCategory?: string;
 }
 
-const ProductIndex = ({ slug, subcategory }: ProductIndexProps) => {
-  const [productData, setProductData] = useState<Product[] | undefined>();
-  let category: string;
-  if (subcategory) {
-    category = subcategory;
-  } else {
-    category = slug;
-  }
-  useEffect(() => {
-    async function fetchProducts() {
-      try {
-        const response = await fetch(
-          `/api/mongoDB/productByCategory/?slug=${category}`
-        );
-        const data = await response.json();
-
-        setProductData(data);
-      } catch (err) {
-        console.log("err", err);
-      } finally {
-        console.log("loading");
-      }
-    }
-
-    fetchProducts();
-  }, [slug]);
-
-  return <ProductTile productData={productData} />;
+const ProductIndex = ({
+  hit,
+  sendEvent,
+  parentCategory,
+  subCategory,
+}: ProductIndexProps) => {
+  return <ProductTile productData={hit} />;
 };
 
 export default ProductIndex;

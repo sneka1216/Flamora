@@ -25,6 +25,8 @@ export const productMapper = (product, category) => {
             slug: parentCatgory.slug,
           }
         : null,
+      categorySlug: parentCatgory ? parentCatgory.slug : null,
+      subCategorySlug: subCategory ? subCategory.slug : null,
       subCategory: subCategory
         ? {
             id: subCategory._id,
