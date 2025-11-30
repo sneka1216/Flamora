@@ -1,10 +1,10 @@
 "use-client";
 import React from "react";
 import Link from "next/link";
-import { Product } from "../ProductDetails/productInformation";
+import type { Hit } from "instantsearch.js";
 
 interface Props {
-  productData: Product;
+  productData: Hit;
 }
 
 const ProductTile = ({ productData }: Props) => {
