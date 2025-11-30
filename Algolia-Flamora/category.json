@@ -2170,5 +2170,1091 @@
       "updatedAt": "2025-07-21T18:20:59.979Z",
       "__v": 0
     }
+  ],
+  [
+    {
+      "_id": "687e8370cfbf0d42cb9a673d",
+      "name": "Balloon Sleeves",
+      "slug": "balloon-sleeves",
+      "description": "Make a bold statement with voluminous balloon sleeves that add drama and charm to any outfit.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:14:08.877Z",
+      "updatedAt": "2025-07-21T18:14:08.877Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e7c743035fcdb1381f196",
+      "name": "Tops",
+      "slug": "Tops",
+      "description": "A feminine touch for any wardrobe, this ruffle-detailed blouse features a flattering fit and elegant neckline. Perfect for brunch dates or office meetings.",
+      "parent": null,
+      "createdAt": "2025-07-21T17:44:20.128Z",
+      "updatedAt": "2025-07-21T17:44:20.128Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83a8cfbf0d42cb9a674c",
+      "name": "Cropped Shirts",
+      "slug": "cropped-shirts",
+      "description": "Trendy cropped length that pairs perfectly with high-waisted bottoms for a modern look.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:15:04.259Z",
+      "updatedAt": "2025-07-21T18:15:04.259Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83b6cfbf0d42cb9a674f",
+      "name": "Peasant Tops",
+      "slug": "peasant-tops",
+      "description": "Bohemian flair with relaxed fits and delicate embroidery or ruffle detailing.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:15:18.398Z",
+      "updatedAt": "2025-07-21T18:15:18.398Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83fecfbf0d42cb9a6764",
+      "name": "Lace Blouses",
+      "slug": "lace-blouses",
+      "description": "Intricate lacework adds a delicate, romantic charm perfect for special occasions.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:16:30.945Z",
+      "updatedAt": "2025-07-21T18:16:30.945Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84ddcfbf0d42cb9a6788",
+      "name": "Satin Tops",
+      "slug": "satin-tops",
+      "description": "Luxurious satin finishes add a touch of glam to any outfit.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:20:13.144Z",
+      "updatedAt": "2025-07-21T18:20:13.144Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84f7cfbf0d42cb9a6791",
+      "name": "Layered Tops",
+      "slug": "layered-tops",
+      "description": "Visually rich, layered tops bring texture and depth to your outfit.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:20:39.265Z",
+      "updatedAt": "2025-07-21T18:20:39.265Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84fecfbf0d42cb9a6794",
+      "name": "Cape Tops",
+      "slug": "cape-tops",
+      "description": "Dramatic cape-style overlays add flow and elegance to a basic top silhouette.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:20:46.821Z",
+      "updatedAt": "2025-07-21T18:20:46.821Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e8394cfbf0d42cb9a6746",
+      "name": "Smocked Tops",
+      "slug": "smocked-tops",
+      "description": "Comfortable and chic, these stretchy tops hug the body with a gathered smocked texture.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:14:44.929Z",
+      "updatedAt": "2025-07-21T18:14:44.929Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e839fcfbf0d42cb9a6749",
+      "name": "Puff Sleeves",
+      "slug": "puff-sleeves",
+      "description": "Romantic and vintage-inspired, puff sleeves add graceful volume and elegance.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:14:55.215Z",
+      "updatedAt": "2025-07-21T18:14:55.215Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84c8cfbf0d42cb9a6782",
+      "name": "Asymmetric Tops",
+      "slug": "asymmetric-tops",
+      "description": "Unique cuts and uneven hems add an edgy, fashion-forward flair.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:19:52.909Z",
+      "updatedAt": "2025-07-21T18:19:52.909Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e7fb33ba886365e76b1cf",
+      "name": "Peplum Top",
+      "slug": "Peplum-Top",
+      "description": "Add a touch of elegance and femininity to your wardrobe with this stunning peplum top. Designed to flatter your silhouette, it features a cinched waist and flared hem that enhances your natural curves.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T17:58:11.271Z",
+      "updatedAt": "2025-07-21T17:58:11.271Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83cbcfbf0d42cb9a6755",
+      "name": "High Neck Blouses",
+      "slug": "high-neck-blouses",
+      "description": "Sophisticated high-neck styles that are perfect for work or polished evening wear.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:15:39.784Z",
+      "updatedAt": "2025-07-21T18:15:39.784Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83f3cfbf0d42cb9a6761",
+      "name": "Cold Shoulder Tops",
+      "slug": "cold-shoulder-tops",
+      "description": "Add a modern twist with shoulder cutouts that bring edge to your feminine style.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:16:19.921Z",
+      "updatedAt": "2025-07-21T18:16:19.921Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84c1cfbf0d42cb9a677f",
+      "name": "Ribbed Tops",
+      "slug": "ribbed-tops",
+      "description": "Snug-fitting with a ribbed texture, these tops provide comfort and shape.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:19:45.943Z",
+      "updatedAt": "2025-07-21T18:19:45.943Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84d2cfbf0d42cb9a6785",
+      "name": "Knot Front Tops",
+      "slug": "knot-front-tops",
+      "description": "Playful knot details in the front elevate a simple silhouette with charm.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:20:02.699Z",
+      "updatedAt": "2025-07-21T18:20:02.699Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e82f3cfbf0d42cb9a673a",
+      "name": "Ruffle sleeves",
+      "slug": "Ruffle-sleeves",
+      "description": "Add a playful flair to your outfit with our chic Ruffle Sleeves Top. Designed to make a statement, the cascading ruffle details on the sleeves bring a soft, feminine touch that elevates even the simplest look.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:12:03.241Z",
+      "updatedAt": "2025-07-21T18:12:03.241Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84e6cfbf0d42cb9a678b",
+      "name": "Sequin Tops",
+      "slug": "sequin-tops",
+      "description": "Shimmer and shine with sequin embellishments, perfect for party looks.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:20:22.791Z",
+      "updatedAt": "2025-07-21T18:20:22.791Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e850bcfbf0d42cb9a679a",
+      "name": "Turtle Neck Tops",
+      "slug": "turtle-neck-tops",
+      "description": "Classic high-neck style for a sleek, cozy look in cooler seasons.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:20:59.979Z",
+      "updatedAt": "2025-07-21T18:20:59.979Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83e8cfbf0d42cb9a675e",
+      "name": "Shirt Dresses",
+      "slug": "shirt-dresses",
+      "description": "A fusion of shirt and dress, ideal for a minimal yet refined aesthetic.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:16:08.421Z",
+      "updatedAt": "2025-07-21T18:16:08.421Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e8495cfbf0d42cb9a6770",
+      "name": "Tank Tops",
+      "slug": "tank-tops",
+      "description": "Lightweight and sleeveless, ideal for layering or warm-weather style.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:19:01.135Z",
+      "updatedAt": "2025-07-21T18:19:01.135Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84bacfbf0d42cb9a677c",
+      "name": "Graphic Tops",
+      "slug": "graphic-tops",
+      "description": "Expressive prints and slogans make these tops a go-to for casual styling.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:19:38.093Z",
+      "updatedAt": "2025-07-21T18:19:38.093Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84efcfbf0d42cb9a678e",
+      "name": "Cut-Out Tops",
+      "slug": "cut-out-tops",
+      "description": "Strategic cut-outs add bold detail and elevate your modern style.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:20:31.060Z",
+      "updatedAt": "2025-07-21T18:20:31.060Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e8229cfbf0d42cb9a6735",
+      "name": "Woman Shirts",
+      "slug": "Woman-Shirts",
+      "description": "edefine everyday elegance with our collection of women’s shirts — tailored, timeless, and endlessly versatile. From crisp button-downs to relaxed fits, these shirts are designed to take you effortlessly from work meetings to weekend brunches.",
+      "parent": null,
+      "createdAt": "2025-07-21T18:08:41.169Z",
+      "updatedAt": "2025-07-21T18:08:41.169Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e8407cfbf0d42cb9a6767",
+      "name": "Button-Down Shirts",
+      "slug": "button-down-shirts",
+      "description": "Classic and versatile, button-downs are essential for casual or professional looks.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:16:39.663Z",
+      "updatedAt": "2025-07-21T18:16:39.663Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e8388cfbf0d42cb9a6743",
+      "name": "Wrap Blouses",
+      "slug": "wrap-blouses",
+      "description": "Feminine wrap design that cinches at the waist, creating a tailored silhouette for every shape.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:14:32.536Z",
+      "updatedAt": "2025-07-21T18:14:32.536Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e8505cfbf0d42cb9a6797",
+      "name": "Frill Tops",
+      "slug": "frill-tops",
+      "description": "Romantic frills and flutter details for a feminine and delicate vibe.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:20:53.551Z",
+      "updatedAt": "2025-07-21T18:20:53.551Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83ddcfbf0d42cb9a675b",
+      "name": "Tunic Tops",
+      "slug": "tunic-tops",
+      "description": "Longline and flattering, tunic tops are great for layering or wearing solo.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:15:57.518Z",
+      "updatedAt": "2025-07-21T18:15:57.518Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e840ecfbf0d42cb9a676a",
+      "name": "Pleated Tops",
+      "slug": "pleated-tops",
+      "description": "Subtle pleats create texture and movement, adding sophistication to any ensemble.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:16:46.463Z",
+      "updatedAt": "2025-07-21T18:16:46.463Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83c0cfbf0d42cb9a6752",
+      "name": "Off-Shoulder Tops",
+      "slug": "off-shoulder-tops",
+      "description": "Show off your shoulders with these flirty, breezy tops—ideal for warmer days.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:15:28.118Z",
+      "updatedAt": "2025-07-21T18:15:28.118Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83d3cfbf0d42cb9a6758",
+      "name": "Oversized Shirts",
+      "slug": "oversized-shirts",
+      "description": "Relaxed and effortless, oversized shirts provide both comfort and a modern edge.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:15:47.183Z",
+      "updatedAt": "2025-07-21T18:15:47.183Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e8475cfbf0d42cb9a676d",
+      "name": "Pleated Tops",
+      "slug": "pleated-tops",
+      "description": "Subtle pleats create texture and movement, adding sophistication to any ensemble.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:18:29.074Z",
+      "updatedAt": "2025-07-21T18:18:29.074Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84a8cfbf0d42cb9a6776",
+      "name": "Henley Tops",
+      "slug": "henley-tops",
+      "description": "Casual with a buttoned placket, Henleys offer a laid-back yet polished vibe.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:19:20.693Z",
+      "updatedAt": "2025-07-21T18:19:20.693Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84b1cfbf0d42cb9a6779",
+      "name": "Crop Tops",
+      "slug": "crop-tops",
+      "description": "Trendy and youthful, crop tops are perfect for pairing with high-waisted bottoms.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:19:29.502Z",
+      "updatedAt": "2025-07-21T18:19:29.502Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e837dcfbf0d42cb9a6740",
+      "name": "Tie-Front Tops",
+      "slug": "tie-front-tops",
+      "description": "Casual yet stylish, these tops feature a front tie detail for a flattering, adjustable fit.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:14:21.909Z",
+      "updatedAt": "2025-07-21T18:14:21.909Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e849ecfbf0d42cb9a6773",
+      "name": "Camisole Tops",
+      "slug": "camisole-tops",
+      "description": "Delicate and minimal, camisoles are perfect for both innerwear and summer outerwear.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:19:10.774Z",
+      "updatedAt": "2025-07-21T18:19:10.774Z",
+      "__v": 0
+    }
+  ],
+  [
+    {
+      "_id": "687e8370cfbf0d42cb9a673d",
+      "name": "Balloon Sleeves",
+      "slug": "balloon-sleeves",
+      "description": "Make a bold statement with voluminous balloon sleeves that add drama and charm to any outfit.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:14:08.877Z",
+      "updatedAt": "2025-07-21T18:14:08.877Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e7c743035fcdb1381f196",
+      "name": "Tops",
+      "slug": "Tops",
+      "description": "A feminine touch for any wardrobe, this ruffle-detailed blouse features a flattering fit and elegant neckline. Perfect for brunch dates or office meetings.",
+      "parent": null,
+      "createdAt": "2025-07-21T17:44:20.128Z",
+      "updatedAt": "2025-07-21T17:44:20.128Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83a8cfbf0d42cb9a674c",
+      "name": "Cropped Shirts",
+      "slug": "cropped-shirts",
+      "description": "Trendy cropped length that pairs perfectly with high-waisted bottoms for a modern look.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:15:04.259Z",
+      "updatedAt": "2025-07-21T18:15:04.259Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83b6cfbf0d42cb9a674f",
+      "name": "Peasant Tops",
+      "slug": "peasant-tops",
+      "description": "Bohemian flair with relaxed fits and delicate embroidery or ruffle detailing.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:15:18.398Z",
+      "updatedAt": "2025-07-21T18:15:18.398Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83fecfbf0d42cb9a6764",
+      "name": "Lace Blouses",
+      "slug": "lace-blouses",
+      "description": "Intricate lacework adds a delicate, romantic charm perfect for special occasions.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:16:30.945Z",
+      "updatedAt": "2025-07-21T18:16:30.945Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84ddcfbf0d42cb9a6788",
+      "name": "Satin Tops",
+      "slug": "satin-tops",
+      "description": "Luxurious satin finishes add a touch of glam to any outfit.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:20:13.144Z",
+      "updatedAt": "2025-07-21T18:20:13.144Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84f7cfbf0d42cb9a6791",
+      "name": "Layered Tops",
+      "slug": "layered-tops",
+      "description": "Visually rich, layered tops bring texture and depth to your outfit.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:20:39.265Z",
+      "updatedAt": "2025-07-21T18:20:39.265Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84fecfbf0d42cb9a6794",
+      "name": "Cape Tops",
+      "slug": "cape-tops",
+      "description": "Dramatic cape-style overlays add flow and elegance to a basic top silhouette.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:20:46.821Z",
+      "updatedAt": "2025-07-21T18:20:46.821Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e8394cfbf0d42cb9a6746",
+      "name": "Smocked Tops",
+      "slug": "smocked-tops",
+      "description": "Comfortable and chic, these stretchy tops hug the body with a gathered smocked texture.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:14:44.929Z",
+      "updatedAt": "2025-07-21T18:14:44.929Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e839fcfbf0d42cb9a6749",
+      "name": "Puff Sleeves",
+      "slug": "puff-sleeves",
+      "description": "Romantic and vintage-inspired, puff sleeves add graceful volume and elegance.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:14:55.215Z",
+      "updatedAt": "2025-07-21T18:14:55.215Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84c8cfbf0d42cb9a6782",
+      "name": "Asymmetric Tops",
+      "slug": "asymmetric-tops",
+      "description": "Unique cuts and uneven hems add an edgy, fashion-forward flair.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:19:52.909Z",
+      "updatedAt": "2025-07-21T18:19:52.909Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e7fb33ba886365e76b1cf",
+      "name": "Peplum Top",
+      "slug": "Peplum-Top",
+      "description": "Add a touch of elegance and femininity to your wardrobe with this stunning peplum top. Designed to flatter your silhouette, it features a cinched waist and flared hem that enhances your natural curves.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T17:58:11.271Z",
+      "updatedAt": "2025-07-21T17:58:11.271Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83cbcfbf0d42cb9a6755",
+      "name": "High Neck Blouses",
+      "slug": "high-neck-blouses",
+      "description": "Sophisticated high-neck styles that are perfect for work or polished evening wear.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:15:39.784Z",
+      "updatedAt": "2025-07-21T18:15:39.784Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83f3cfbf0d42cb9a6761",
+      "name": "Cold Shoulder Tops",
+      "slug": "cold-shoulder-tops",
+      "description": "Add a modern twist with shoulder cutouts that bring edge to your feminine style.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:16:19.921Z",
+      "updatedAt": "2025-07-21T18:16:19.921Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84c1cfbf0d42cb9a677f",
+      "name": "Ribbed Tops",
+      "slug": "ribbed-tops",
+      "description": "Snug-fitting with a ribbed texture, these tops provide comfort and shape.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:19:45.943Z",
+      "updatedAt": "2025-07-21T18:19:45.943Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84d2cfbf0d42cb9a6785",
+      "name": "Knot Front Tops",
+      "slug": "knot-front-tops",
+      "description": "Playful knot details in the front elevate a simple silhouette with charm.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:20:02.699Z",
+      "updatedAt": "2025-07-21T18:20:02.699Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e82f3cfbf0d42cb9a673a",
+      "name": "Ruffle sleeves",
+      "slug": "Ruffle-sleeves",
+      "description": "Add a playful flair to your outfit with our chic Ruffle Sleeves Top. Designed to make a statement, the cascading ruffle details on the sleeves bring a soft, feminine touch that elevates even the simplest look.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:12:03.241Z",
+      "updatedAt": "2025-07-21T18:12:03.241Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84e6cfbf0d42cb9a678b",
+      "name": "Sequin Tops",
+      "slug": "sequin-tops",
+      "description": "Shimmer and shine with sequin embellishments, perfect for party looks.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:20:22.791Z",
+      "updatedAt": "2025-07-21T18:20:22.791Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e850bcfbf0d42cb9a679a",
+      "name": "Turtle Neck Tops",
+      "slug": "turtle-neck-tops",
+      "description": "Classic high-neck style for a sleek, cozy look in cooler seasons.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:20:59.979Z",
+      "updatedAt": "2025-07-21T18:20:59.979Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83e8cfbf0d42cb9a675e",
+      "name": "Shirt Dresses",
+      "slug": "shirt-dresses",
+      "description": "A fusion of shirt and dress, ideal for a minimal yet refined aesthetic.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:16:08.421Z",
+      "updatedAt": "2025-07-21T18:16:08.421Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e8495cfbf0d42cb9a6770",
+      "name": "Tank Tops",
+      "slug": "tank-tops",
+      "description": "Lightweight and sleeveless, ideal for layering or warm-weather style.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:19:01.135Z",
+      "updatedAt": "2025-07-21T18:19:01.135Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84bacfbf0d42cb9a677c",
+      "name": "Graphic Tops",
+      "slug": "graphic-tops",
+      "description": "Expressive prints and slogans make these tops a go-to for casual styling.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:19:38.093Z",
+      "updatedAt": "2025-07-21T18:19:38.093Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84efcfbf0d42cb9a678e",
+      "name": "Cut-Out Tops",
+      "slug": "cut-out-tops",
+      "description": "Strategic cut-outs add bold detail and elevate your modern style.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:20:31.060Z",
+      "updatedAt": "2025-07-21T18:20:31.060Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e8229cfbf0d42cb9a6735",
+      "name": "Woman Shirts",
+      "slug": "Woman-Shirts",
+      "description": "edefine everyday elegance with our collection of women’s shirts — tailored, timeless, and endlessly versatile. From crisp button-downs to relaxed fits, these shirts are designed to take you effortlessly from work meetings to weekend brunches.",
+      "parent": null,
+      "createdAt": "2025-07-21T18:08:41.169Z",
+      "updatedAt": "2025-07-21T18:08:41.169Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e8407cfbf0d42cb9a6767",
+      "name": "Button-Down Shirts",
+      "slug": "button-down-shirts",
+      "description": "Classic and versatile, button-downs are essential for casual or professional looks.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:16:39.663Z",
+      "updatedAt": "2025-07-21T18:16:39.663Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e8388cfbf0d42cb9a6743",
+      "name": "Wrap Blouses",
+      "slug": "wrap-blouses",
+      "description": "Feminine wrap design that cinches at the waist, creating a tailored silhouette for every shape.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:14:32.536Z",
+      "updatedAt": "2025-07-21T18:14:32.536Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e8505cfbf0d42cb9a6797",
+      "name": "Frill Tops",
+      "slug": "frill-tops",
+      "description": "Romantic frills and flutter details for a feminine and delicate vibe.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:20:53.551Z",
+      "updatedAt": "2025-07-21T18:20:53.551Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83ddcfbf0d42cb9a675b",
+      "name": "Tunic Tops",
+      "slug": "tunic-tops",
+      "description": "Longline and flattering, tunic tops are great for layering or wearing solo.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:15:57.518Z",
+      "updatedAt": "2025-07-21T18:15:57.518Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e840ecfbf0d42cb9a676a",
+      "name": "Pleated Tops",
+      "slug": "pleated-tops",
+      "description": "Subtle pleats create texture and movement, adding sophistication to any ensemble.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:16:46.463Z",
+      "updatedAt": "2025-07-21T18:16:46.463Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83c0cfbf0d42cb9a6752",
+      "name": "Off-Shoulder Tops",
+      "slug": "off-shoulder-tops",
+      "description": "Show off your shoulders with these flirty, breezy tops—ideal for warmer days.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:15:28.118Z",
+      "updatedAt": "2025-07-21T18:15:28.118Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83d3cfbf0d42cb9a6758",
+      "name": "Oversized Shirts",
+      "slug": "oversized-shirts",
+      "description": "Relaxed and effortless, oversized shirts provide both comfort and a modern edge.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:15:47.183Z",
+      "updatedAt": "2025-07-21T18:15:47.183Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e8475cfbf0d42cb9a676d",
+      "name": "Pleated Tops",
+      "slug": "pleated-tops",
+      "description": "Subtle pleats create texture and movement, adding sophistication to any ensemble.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:18:29.074Z",
+      "updatedAt": "2025-07-21T18:18:29.074Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84a8cfbf0d42cb9a6776",
+      "name": "Henley Tops",
+      "slug": "henley-tops",
+      "description": "Casual with a buttoned placket, Henleys offer a laid-back yet polished vibe.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:19:20.693Z",
+      "updatedAt": "2025-07-21T18:19:20.693Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84b1cfbf0d42cb9a6779",
+      "name": "Crop Tops",
+      "slug": "crop-tops",
+      "description": "Trendy and youthful, crop tops are perfect for pairing with high-waisted bottoms.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:19:29.502Z",
+      "updatedAt": "2025-07-21T18:19:29.502Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e837dcfbf0d42cb9a6740",
+      "name": "Tie-Front Tops",
+      "slug": "tie-front-tops",
+      "description": "Casual yet stylish, these tops feature a front tie detail for a flattering, adjustable fit.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:14:21.909Z",
+      "updatedAt": "2025-07-21T18:14:21.909Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e849ecfbf0d42cb9a6773",
+      "name": "Camisole Tops",
+      "slug": "camisole-tops",
+      "description": "Delicate and minimal, camisoles are perfect for both innerwear and summer outerwear.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:19:10.774Z",
+      "updatedAt": "2025-07-21T18:19:10.774Z",
+      "__v": 0
+    }
+  ],
+  [
+    {
+      "_id": "687e8370cfbf0d42cb9a673d",
+      "name": "Balloon Sleeves",
+      "slug": "balloon-sleeves",
+      "description": "Make a bold statement with voluminous balloon sleeves that add drama and charm to any outfit.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:14:08.877Z",
+      "updatedAt": "2025-07-21T18:14:08.877Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e7c743035fcdb1381f196",
+      "name": "Tops",
+      "slug": "Tops",
+      "description": "A feminine touch for any wardrobe, this ruffle-detailed blouse features a flattering fit and elegant neckline. Perfect for brunch dates or office meetings.",
+      "parent": null,
+      "createdAt": "2025-07-21T17:44:20.128Z",
+      "updatedAt": "2025-07-21T17:44:20.128Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83a8cfbf0d42cb9a674c",
+      "name": "Cropped Shirts",
+      "slug": "cropped-shirts",
+      "description": "Trendy cropped length that pairs perfectly with high-waisted bottoms for a modern look.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:15:04.259Z",
+      "updatedAt": "2025-07-21T18:15:04.259Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83b6cfbf0d42cb9a674f",
+      "name": "Peasant Tops",
+      "slug": "peasant-tops",
+      "description": "Bohemian flair with relaxed fits and delicate embroidery or ruffle detailing.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:15:18.398Z",
+      "updatedAt": "2025-07-21T18:15:18.398Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83fecfbf0d42cb9a6764",
+      "name": "Lace Blouses",
+      "slug": "lace-blouses",
+      "description": "Intricate lacework adds a delicate, romantic charm perfect for special occasions.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:16:30.945Z",
+      "updatedAt": "2025-07-21T18:16:30.945Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84ddcfbf0d42cb9a6788",
+      "name": "Satin Tops",
+      "slug": "satin-tops",
+      "description": "Luxurious satin finishes add a touch of glam to any outfit.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:20:13.144Z",
+      "updatedAt": "2025-07-21T18:20:13.144Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84f7cfbf0d42cb9a6791",
+      "name": "Layered Tops",
+      "slug": "layered-tops",
+      "description": "Visually rich, layered tops bring texture and depth to your outfit.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:20:39.265Z",
+      "updatedAt": "2025-07-21T18:20:39.265Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84fecfbf0d42cb9a6794",
+      "name": "Cape Tops",
+      "slug": "cape-tops",
+      "description": "Dramatic cape-style overlays add flow and elegance to a basic top silhouette.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:20:46.821Z",
+      "updatedAt": "2025-07-21T18:20:46.821Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e8394cfbf0d42cb9a6746",
+      "name": "Smocked Tops",
+      "slug": "smocked-tops",
+      "description": "Comfortable and chic, these stretchy tops hug the body with a gathered smocked texture.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:14:44.929Z",
+      "updatedAt": "2025-07-21T18:14:44.929Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e839fcfbf0d42cb9a6749",
+      "name": "Puff Sleeves",
+      "slug": "puff-sleeves",
+      "description": "Romantic and vintage-inspired, puff sleeves add graceful volume and elegance.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:14:55.215Z",
+      "updatedAt": "2025-07-21T18:14:55.215Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84c8cfbf0d42cb9a6782",
+      "name": "Asymmetric Tops",
+      "slug": "asymmetric-tops",
+      "description": "Unique cuts and uneven hems add an edgy, fashion-forward flair.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:19:52.909Z",
+      "updatedAt": "2025-07-21T18:19:52.909Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e7fb33ba886365e76b1cf",
+      "name": "Peplum Top",
+      "slug": "Peplum-Top",
+      "description": "Add a touch of elegance and femininity to your wardrobe with this stunning peplum top. Designed to flatter your silhouette, it features a cinched waist and flared hem that enhances your natural curves.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T17:58:11.271Z",
+      "updatedAt": "2025-07-21T17:58:11.271Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83cbcfbf0d42cb9a6755",
+      "name": "High Neck Blouses",
+      "slug": "high-neck-blouses",
+      "description": "Sophisticated high-neck styles that are perfect for work or polished evening wear.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:15:39.784Z",
+      "updatedAt": "2025-07-21T18:15:39.784Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83f3cfbf0d42cb9a6761",
+      "name": "Cold Shoulder Tops",
+      "slug": "cold-shoulder-tops",
+      "description": "Add a modern twist with shoulder cutouts that bring edge to your feminine style.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:16:19.921Z",
+      "updatedAt": "2025-07-21T18:16:19.921Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84c1cfbf0d42cb9a677f",
+      "name": "Ribbed Tops",
+      "slug": "ribbed-tops",
+      "description": "Snug-fitting with a ribbed texture, these tops provide comfort and shape.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:19:45.943Z",
+      "updatedAt": "2025-07-21T18:19:45.943Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84d2cfbf0d42cb9a6785",
+      "name": "Knot Front Tops",
+      "slug": "knot-front-tops",
+      "description": "Playful knot details in the front elevate a simple silhouette with charm.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:20:02.699Z",
+      "updatedAt": "2025-07-21T18:20:02.699Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e82f3cfbf0d42cb9a673a",
+      "name": "Ruffle sleeves",
+      "slug": "Ruffle-sleeves",
+      "description": "Add a playful flair to your outfit with our chic Ruffle Sleeves Top. Designed to make a statement, the cascading ruffle details on the sleeves bring a soft, feminine touch that elevates even the simplest look.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:12:03.241Z",
+      "updatedAt": "2025-07-21T18:12:03.241Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84e6cfbf0d42cb9a678b",
+      "name": "Sequin Tops",
+      "slug": "sequin-tops",
+      "description": "Shimmer and shine with sequin embellishments, perfect for party looks.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:20:22.791Z",
+      "updatedAt": "2025-07-21T18:20:22.791Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e850bcfbf0d42cb9a679a",
+      "name": "Turtle Neck Tops",
+      "slug": "turtle-neck-tops",
+      "description": "Classic high-neck style for a sleek, cozy look in cooler seasons.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:20:59.979Z",
+      "updatedAt": "2025-07-21T18:20:59.979Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83e8cfbf0d42cb9a675e",
+      "name": "Shirt Dresses",
+      "slug": "shirt-dresses",
+      "description": "A fusion of shirt and dress, ideal for a minimal yet refined aesthetic.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:16:08.421Z",
+      "updatedAt": "2025-07-21T18:16:08.421Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e8495cfbf0d42cb9a6770",
+      "name": "Tank Tops",
+      "slug": "tank-tops",
+      "description": "Lightweight and sleeveless, ideal for layering or warm-weather style.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:19:01.135Z",
+      "updatedAt": "2025-07-21T18:19:01.135Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84bacfbf0d42cb9a677c",
+      "name": "Graphic Tops",
+      "slug": "graphic-tops",
+      "description": "Expressive prints and slogans make these tops a go-to for casual styling.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:19:38.093Z",
+      "updatedAt": "2025-07-21T18:19:38.093Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84efcfbf0d42cb9a678e",
+      "name": "Cut-Out Tops",
+      "slug": "cut-out-tops",
+      "description": "Strategic cut-outs add bold detail and elevate your modern style.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:20:31.060Z",
+      "updatedAt": "2025-07-21T18:20:31.060Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e8229cfbf0d42cb9a6735",
+      "name": "Woman Shirts",
+      "slug": "Woman-Shirts",
+      "description": "edefine everyday elegance with our collection of women’s shirts — tailored, timeless, and endlessly versatile. From crisp button-downs to relaxed fits, these shirts are designed to take you effortlessly from work meetings to weekend brunches.",
+      "parent": null,
+      "createdAt": "2025-07-21T18:08:41.169Z",
+      "updatedAt": "2025-07-21T18:08:41.169Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e8407cfbf0d42cb9a6767",
+      "name": "Button-Down Shirts",
+      "slug": "button-down-shirts",
+      "description": "Classic and versatile, button-downs are essential for casual or professional looks.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:16:39.663Z",
+      "updatedAt": "2025-07-21T18:16:39.663Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e8388cfbf0d42cb9a6743",
+      "name": "Wrap Blouses",
+      "slug": "wrap-blouses",
+      "description": "Feminine wrap design that cinches at the waist, creating a tailored silhouette for every shape.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:14:32.536Z",
+      "updatedAt": "2025-07-21T18:14:32.536Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e8505cfbf0d42cb9a6797",
+      "name": "Frill Tops",
+      "slug": "frill-tops",
+      "description": "Romantic frills and flutter details for a feminine and delicate vibe.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:20:53.551Z",
+      "updatedAt": "2025-07-21T18:20:53.551Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83ddcfbf0d42cb9a675b",
+      "name": "Tunic Tops",
+      "slug": "tunic-tops",
+      "description": "Longline and flattering, tunic tops are great for layering or wearing solo.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:15:57.518Z",
+      "updatedAt": "2025-07-21T18:15:57.518Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e840ecfbf0d42cb9a676a",
+      "name": "Pleated Tops",
+      "slug": "pleated-tops",
+      "description": "Subtle pleats create texture and movement, adding sophistication to any ensemble.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:16:46.463Z",
+      "updatedAt": "2025-07-21T18:16:46.463Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83c0cfbf0d42cb9a6752",
+      "name": "Off-Shoulder Tops",
+      "slug": "off-shoulder-tops",
+      "description": "Show off your shoulders with these flirty, breezy tops—ideal for warmer days.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:15:28.118Z",
+      "updatedAt": "2025-07-21T18:15:28.118Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e83d3cfbf0d42cb9a6758",
+      "name": "Oversized Shirts",
+      "slug": "oversized-shirts",
+      "description": "Relaxed and effortless, oversized shirts provide both comfort and a modern edge.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:15:47.183Z",
+      "updatedAt": "2025-07-21T18:15:47.183Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e8475cfbf0d42cb9a676d",
+      "name": "Pleated Tops",
+      "slug": "pleated-tops",
+      "description": "Subtle pleats create texture and movement, adding sophistication to any ensemble.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:18:29.074Z",
+      "updatedAt": "2025-07-21T18:18:29.074Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84a8cfbf0d42cb9a6776",
+      "name": "Henley Tops",
+      "slug": "henley-tops",
+      "description": "Casual with a buttoned placket, Henleys offer a laid-back yet polished vibe.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:19:20.693Z",
+      "updatedAt": "2025-07-21T18:19:20.693Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e84b1cfbf0d42cb9a6779",
+      "name": "Crop Tops",
+      "slug": "crop-tops",
+      "description": "Trendy and youthful, crop tops are perfect for pairing with high-waisted bottoms.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:19:29.502Z",
+      "updatedAt": "2025-07-21T18:19:29.502Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e837dcfbf0d42cb9a6740",
+      "name": "Tie-Front Tops",
+      "slug": "tie-front-tops",
+      "description": "Casual yet stylish, these tops feature a front tie detail for a flattering, adjustable fit.",
+      "parent": "687e8229cfbf0d42cb9a6735",
+      "createdAt": "2025-07-21T18:14:21.909Z",
+      "updatedAt": "2025-07-21T18:14:21.909Z",
+      "__v": 0
+    },
+    {
+      "_id": "687e849ecfbf0d42cb9a6773",
+      "name": "Camisole Tops",
+      "slug": "camisole-tops",
+      "description": "Delicate and minimal, camisoles are perfect for both innerwear and summer outerwear.",
+      "parent": "687e7c743035fcdb1381f196",
+      "createdAt": "2025-07-21T18:19:10.774Z",
+      "updatedAt": "2025-07-21T18:19:10.774Z",
+      "__v": 0
+    }
   ]
 ]

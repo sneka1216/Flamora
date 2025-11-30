@@ -1,17 +1,23 @@
 import ProductIndex from "@/components/ProductListing";
+import InstantSearchComponent from "@/components/ProductListing/instantSearch";
 import React from "react";
 export const dynamicParams = true;
 interface PageProps {
   params: {
-    slug: string;
+    parentCategory: string;
     subcategory: string;
   };
 }
 
 const SubCategoryPage = async ({ params }: PageProps) => {
-  const { slug, subcategory } = params;
+  const { parentCategory, subcategory } = params;
 
-  return <ProductIndex slug={slug} subcategory={subcategory} />;
+  return (
+    <InstantSearchComponent
+      parentCategory={parentCategory}
+      subCategory={subcategory}
+    />
+  );
 };
 
 export default SubCategoryPage;
