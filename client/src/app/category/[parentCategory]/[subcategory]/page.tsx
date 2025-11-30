@@ -1,4 +1,3 @@
-import ProductIndex from "@/components/ProductListing";
 import InstantSearchComponent from "@/components/ProductListing/instantSearch";
 import React from "react";
 export const dynamicParams = true;
