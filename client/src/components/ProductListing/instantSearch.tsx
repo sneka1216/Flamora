@@ -19,9 +19,7 @@ const InstantSearchComponent = ({
   const searchApiKey = process.env.NEXT_PUBLIC_ALGOLIA_SEACH_API_KEY!;
   const indexName = process.env.NEXT_PUBLIC_ALGOLIA_INDEX_NAME!;
 
-  const searchClient = (algoliasearch as any).default
-    ? (algoliasearch as any).default(applicationId, searchApiKey)
-    : (algoliasearch as any)(applicationId, searchApiKey);
+  const searchClient = algoliasearch(applicationId, searchApiKey);
 
   const filters = subCategory
     ? `subCategorySlug:"${categoryName}"`
@@ -37,7 +35,6 @@ const InstantSearchComponent = ({
           item: "w-full",
         }}
         hitComponent={({ hit, sendEvent }: any) => {
-          console.log("hit in instant search", hit);
           return (
             <ProductIndex
               hit={hit}
