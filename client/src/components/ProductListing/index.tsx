@@ -2,12 +2,10 @@
 import React from "react";
 import ProductTile from "./productTile";
 import { Product } from "../ProductDetails/productInformation";
+import type { Hit } from "instantsearch.js";
 
 interface ProductIndexProps {
-  hit: Product;
-  // sendEvent: any;
-  // parentCategory: string;
-  // subCategory?: string;
+  hit: Hit;
 }
 
 const ProductIndex = ({ hit }: ProductIndexProps) => {

@@ -34,15 +34,8 @@ const InstantSearchComponent = ({
           list: "grid grid-cols-2 gap-4 md:grid-cols-3 lg:grid-cols-4",
           item: "w-full",
         }}
-        hitComponent={(hit) => {
-          return (
-            <ProductIndex
-              hit={hit}
-              // sendEvent={sendEvent}
-              // parentCategory={parentCategory}
-              // subCategory={subCategory}
-            />
-          );
+        hitComponent={({ hit }) => {
+          return <ProductIndex hit={hit} />;
         }}
       />
     </InstantSearch>
