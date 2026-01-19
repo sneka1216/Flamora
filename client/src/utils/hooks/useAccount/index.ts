@@ -1,3 +1,4 @@
+"use client";
 import { getWithExpiry, setWithExpiry } from "@/utils/functions/account";
 import { useCallback } from "react";
 
