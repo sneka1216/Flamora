@@ -1,3 +1,4 @@
+"use client";
 import { setWithExpiry } from "@/utils/functions/account";
 import { useCallback } from "react";
 const ONE_YEAR_MS = 365 * 24 * 60 * 60 * 1000;

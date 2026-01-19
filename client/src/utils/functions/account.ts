@@ -1,4 +1,5 @@
 export const setWithExpiry = <T>(key: string, value: T, ttlMs: number) => {
+  if (typeof window === "undefined") return;
   const now = new Date();
 
   const item = {
@@ -10,6 +11,7 @@ export const setWithExpiry = <T>(key: string, value: T, ttlMs: number) => {
 };
 
 export const getWithExpiry = (key: string) => {
+  if (typeof window === "undefined") return null;
   const itemStr = localStorage.getItem(key);
   if (!itemStr) return null;
 
