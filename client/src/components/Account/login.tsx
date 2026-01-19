@@ -54,7 +54,7 @@ const Login = () => {
         className="flex flex-col justify-center my-5 items-center relative"
       >
         <p className="text-sm text-center mt-5 ">
-          DON'T HAVE AN ACCOUNT{" "}
+          DON'T HAVE AN ACCOUNT
           <span className="underline">
             <Link href={"/account/register"}>REGISTER</Link>
           </span>
