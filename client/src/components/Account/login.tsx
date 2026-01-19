@@ -3,6 +3,7 @@
 import React, { useState, useTransition } from "react";
 import LoginMockUpData from "../../mockupData/account.json";
 import { useRouter } from "next/navigation";
+import Link from "next/link";
 
 const Login = () => {
   const [formData, setFormData] = useState({
@@ -45,12 +46,19 @@ const Login = () => {
       }
     });
   };
+
   return (
     <>
       <form
         onSubmit={handleSubmit}
-        className="flex flex-col justify-center items-center"
+        className="flex flex-col justify-center my-5 items-center relative"
       >
+        <p className="text-sm text-center mt-5 ">
+          DON'T HAVE AN ACCOUNT{" "}
+          <span className="underline">
+            <Link href={"/account/register"}>REGISTER</Link>
+          </span>
+        </p>
         <p className="text-[35px] my-5">Login</p>
         {LoginMockUpData?.login?.map((field: string) => {
           return (

@@ -1,5 +1,7 @@
+import CartIndex from "@/components/Cart";
+
 const Cart = () => {
-  return "hii cart page";
+  return <CartIndex />;
 };
 
 export default Cart;

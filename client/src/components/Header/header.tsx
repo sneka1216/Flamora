@@ -1,31 +1,51 @@
 "use client";
-import React from "react";
+import React, { useEffect, useState } from "react";
 import Logo from "./logo";
 import Searchbar from "./searchbar";
 import NavItems from "./navItems";
 import Link from "next/link";
+import { getWithExpiry } from "@/utils/functions/account";
+export type User = {
+  _id: string;
+  isGuest: boolean;
+  createdAt: string; // ISO date string
+  updatedAt: string; // ISO date string
+  __v: number;
+  email: string;
+  name: string;
+  password: string;
+};
+
+export type StoredUser = {
+  value: User;
+  expiry: number; // timestamp (milliseconds)
+};
 
 const Header = () => {
   const logoText = "F l a m o r a";
+  const [user, setUser] = useState<StoredUser | null>(null);
+
+  useEffect(() => {
+    const userData = getWithExpiry("user");
+    setUser(userData);
+  }, []);
+
   return (
-    <div>
-      <div className="grid grid-cols-6  pb-5">
-        <div className="row-span-2 mt-5 col-span-2 place-content-center ml-10">
+    <div className="sticky top-0 bg-white z-50">
+      <div className="flex s w-full flex-row items-center justify-center py-5 px-3">
+        <div className="w-full">
           <Searchbar />
         </div>
-        <div className="col-span-2">
-          <div className="ml-20">
-            <div className="ml-23">
-              <Logo />
-            </div>
-            <p className="text-3xl ml-10 font-extralight text-black">
-              {logoText?.toUpperCase()}
-            </p>
-          </div>
+        <div className="w-full flex flex-col items-center justify-center">
+          <Logo />
+
+          <p className="text-3xl  font-extralight text-black">
+            {logoText?.toUpperCase()}
+          </p>
         </div>
-        <div className="row-span-2 mt-5 col-span-2 place-content-center ml-10">
+        <div className="w-full ">
           <div className="flex justify-center gap-8">
-            <Link href={"/account/register"}>
+            <Link className=" relative " href={"/account/register"}>
               <svg
                 viewBox="0 0 24 24"
                 fill="none"
@@ -56,7 +76,16 @@ const Header = () => {
                   />
                 </g>
               </svg>
+
+              {user && user?.value?.isGuest ? (
+                <p className="w-50 absolute top-7 left-[-24px]">HI, GUEST</p>
+              ) : user && user?.value?.name ? (
+                <p className="w-50 absolute top-7 left-[-24px]">
+                  HI, {user?.value?.name?.toUpperCase()}
+                </p>
+              ) : null}
             </Link>
+
             <Link href={"/wishlist"}>
               <svg
                 viewBox="0 0 48 48"

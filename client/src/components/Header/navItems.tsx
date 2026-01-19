@@ -1,7 +1,7 @@
 "use client";
 import React, { useEffect, useState } from "react";
 import Link from "next/link";
-import mapCategories from "@/utils/categoryMapper";
+import mapCategories from "@/utils/functions/categoryMapper";
 
 type Level2 = {
   name: string;
