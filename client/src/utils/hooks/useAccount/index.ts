@@ -18,7 +18,7 @@ const useAccount = () => {
     }
 
     try {
-      const response = await fetch("http://localhost:5000/customer/me", {
+      const response = await fetch("https://flamora.onrender.com/customer/me", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -46,7 +46,7 @@ const useAccount = () => {
     console.log("updateAccount payload", payload);
     try {
       const response = await fetch(
-        "http://localhost:5000/customer/updateAccount",
+        "https://flamora.onrender.com/customer/updateAccount",
         {
           method: "PUT",
           headers: {
