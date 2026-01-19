@@ -33,7 +33,9 @@ const GustUserConsent = ({ guest, setGuest }: Props) => {
         <button
           type="button"
           onClick={() => {
-            (setGuest(true), guestUserLogin(), router.push("/"));
+            setGuest(true);
+            guestUserLogin();
+            router.push("/");
           }}
           className="w-50 bg-black p-2 text-white text-sm cursor-pointer"
         >
