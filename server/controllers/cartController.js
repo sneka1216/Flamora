@@ -8,6 +8,12 @@ cartController.get("/getAllCarts", async (req, res) => {
   res.send({ data: carts });
 });
 
+cartController.post("/getCart", async (req, res) => {
+  const body = req.body;
+  const carts = await Cart.findOne({ user: body?.user }).populate("products");
+  res.send({ data: carts });
+});
+
 cartController.post("/addToCart", async (req, res) => {
   const body = req.body;
 
@@ -17,14 +23,12 @@ cartController.post("/addToCart", async (req, res) => {
       model: "Product",
     });
 
-    console.log("existing cart", existingCart);
-
     if (existingCart) {
       let updatedProducts = [...existingCart.products];
       for (const bodyProduct of body?.products) {
         const productIndex = updatedProducts?.findIndex(
           (popProduct) =>
-            String(popProduct.product._id) === String(bodyProduct.product)
+            String(popProduct?.product?._id) === String(bodyProduct?.product),
         );
 
         if (productIndex > -1) {
@@ -50,7 +54,7 @@ cartController.post("/addToCart", async (req, res) => {
       // Update the cart with the modified products and total price
       await Cart.findOneAndUpdate(
         { user: body.user },
-        { products: updatedProducts, totalPrice: totalPrice }
+        { products: updatedProducts, totalPrice: totalPrice },
       );
 
       // Retrieve the updated cart
@@ -81,18 +85,18 @@ cartController.post("/removeFromCart", async (req, res) => {
   const body = req.body;
   const existingCart = await Cart.findOne({ email: body.email });
   const updatedCartProducts = await existingCart.products.filter(
-    (i) => i.product != body.product
+    (i) => i.product != body.product,
   );
   const totalPrice = existingCartProducts.reduce(
-    (total, i) => total + i?.product?.price * i?.quantity
+    (total, i) => total + i?.product?.price * i?.quantity,
   );
   const cart = await Cart.findOneAndUpdate(
     { email: body.email },
-    { products: updatedCartProducts, totalPrice }
+    { products: updatedCartProducts, totalPrice },
   );
   if (cart) {
     const updatedCart = await Cart.findOne({ email: body.email }).populate(
-      "products"
+      "products",
     );
     res.send(updatedCart);
   }
@@ -102,7 +106,7 @@ cartController.post("/clearCart", async (req, res) => {
   const body = req.body;
   const cart = await Cart.findOneAndUpdate(
     { user: body.user },
-    { products: [], totalPrice: 0 }
+    { products: [], totalPrice: 0 },
   );
   res.send("cart");
 });

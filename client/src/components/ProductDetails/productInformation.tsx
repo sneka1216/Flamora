@@ -29,11 +29,13 @@ export interface Product {
   colour?: string;
   colourCode?: string;
   shortDescription?: string;
+  _id: string;
 }
 
 interface Props {
+  addItemToCart: (item: Product) => void;
   subcategory?: string;
-  product: Product | undefined;
+  product: Product;
 }
 
 const NextArrow = (props: CustomArrowProps) => {
@@ -86,7 +88,7 @@ const PrevArrow = (props: CustomArrowProps) => {
   );
 };
 
-const ProductInformation = ({ product }: Props) => {
+const ProductInformation = ({ addItemToCart, product }: Props) => {
   const settings = {
     dots: true,
     infinite: true,
@@ -145,7 +147,10 @@ const ProductInformation = ({ product }: Props) => {
             {product?.colour} | {product?.colourCode?.replaceAll("/", "-")}
           </div>
           <Link href={"/cart"}>
-            <div className="border cursor-pointer border-slate-800 p-2 text-center my-4">
+            <div
+              onClick={() => addItemToCart(product)}
+              className="border cursor-pointer border-slate-800 p-2 text-center my-4"
+            >
               Add To Basket
             </div>
           </Link>

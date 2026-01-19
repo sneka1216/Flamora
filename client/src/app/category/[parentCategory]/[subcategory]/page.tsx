@@ -1,15 +1,17 @@
 import InstantSearchComponent from "@/components/ProductListing/instantSearch";
 import React from "react";
+
 export const dynamicParams = true;
+
 interface PageProps {
-  params: {
+  params: Promise<{
     parentCategory: string;
     subcategory: string;
-  };
+  }>;
 }
 
 const SubCategoryPage = async ({ params }: PageProps) => {
-  const { parentCategory, subcategory } = params;
+  const { parentCategory, subcategory } = await params;
 
   return (
     <InstantSearchComponent

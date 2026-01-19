@@ -17,12 +17,16 @@ const cartSchema = new mongoose.Schema(
         },
       },
     ],
+    totalProductCount: {
+      type: Number,
+      default: 0,
+    },
     totalPrice: {
       type: Number,
       default: 0,
     },
   },
-  { timestamps: { createdAt: true, updatedAt: true } }
+  { timestamps: { createdAt: true, updatedAt: true } },
 );
 
 export default mongoose.model("Cart", cartSchema);

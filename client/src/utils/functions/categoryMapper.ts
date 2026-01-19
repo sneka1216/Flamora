@@ -13,7 +13,7 @@ export interface Category {
 export default function mapCategories(categories: Category[]): Category[] {
   const categoryMap: Record<string, Category> = {};
   const result: Category[] = [];
-
+  if (categories?.length === 0) return result;
   categories?.forEach((category) => {
     categoryMap[category?._id] = { ...category };
   });

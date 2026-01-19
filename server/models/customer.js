@@ -4,18 +4,24 @@ const customerSchema = new mongoose.Schema(
   {
     name: {
       type: String,
-      required: [true, "please enter your name"],
+      required: function () {
+        return !this.isGuest;
+      },
     },
     age: {
       type: Number,
     },
     email: {
       type: String,
-      required: [true, "please enter your email"],
+      required: function () {
+        return !this.isGuest;
+      },
     },
     password: {
       type: String,
-      required: [true, "please enter your password"],
+      required: function () {
+        return !this.isGuest;
+      },
     },
     photo: {
       type: String,
@@ -23,8 +29,13 @@ const customerSchema = new mongoose.Schema(
     address: {
       type: Object,
     },
+    isGuest: {
+      type: Boolean,
+      required: true,
+      default: false,
+    },
   },
-  { timestamps: { createdAt: true, updatedAt: true } }
+  { timestamps: true }
 );
 
 export default mongoose.model("User", customerSchema);
