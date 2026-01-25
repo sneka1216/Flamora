@@ -81,6 +81,30 @@ cartController.post("/addToCart", async (req, res) => {
   }
 });
 
+// cartController.post("/updateCart", async (res, req) => {
+//   try {
+//     const body = req.body;
+//     const updatedCart = await Cart.findOneAndUpdate(
+//       { user: body?.user },
+//       { $set: { user: body?.email } },
+//       { new: true },
+//     );
+
+//     res.send(updatedCart);
+//   } catch (error) {
+//     console.log(error);
+//   }
+// });
+
+//isGuestuser true merge local cart with user cart
+// cartController.post("/mergeCart", async (req, res) => {
+//   const body = req.body;
+//   const guestUser = await Cart.findOne({ user: body?.guestUser });
+//   const existingUser = await Cart.findOne({ user: body?.existingUser });
+
+//   res.send({ guestUser, existingUser, registeredUser });
+// });
+
 cartController.post("/removeFromCart", async (req, res) => {
   const body = req.body;
   const existingCart = await Cart.findOne({ email: body.email });
