@@ -1,14 +1,14 @@
 import Login from "@/components/Account/login";
 import Register from "@/components/Account/register";
-
+export const dynamicParams = true;
 interface PageProps {
-  params: {
+  params: Promise<{
     slug: string;
-  };
+  }>;
 }
 
-const Account = ({ params }: PageProps) => {
-  const { slug } = params;
+const Account = async ({ params }: PageProps) => {
+  const { slug } = await params;
 
   return <> {slug === "login" ? <Login /> : <Register />} </>;
 };

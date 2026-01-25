@@ -4,6 +4,7 @@ import React, { useState, useTransition } from "react";
 import LoginMockUpData from "../../mockupData/account.json";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
+import useAccount from "@/utils/hooks/useAccount";
 
 const Login = () => {
   const [formData, setFormData] = useState({
@@ -14,6 +15,7 @@ const Login = () => {
   const [isPending, startTransition] = useTransition();
   const [responseMsg, setResponseMsg] = useState("");
   const router = useRouter();
+  const { login } = useAccount();
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const { name, value } = e.target;
@@ -24,21 +26,12 @@ const Login = () => {
     e.preventDefault();
     startTransition(async () => {
       try {
-        const res = await fetch("https://flamora.onrender.com/customer/login", {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify(formData),
-        });
-
-        const data = await res?.json();
-
-        if (res?.ok) {
-          router.push("/");
+        const res = await login(formData);
+        if (res) {
           setResponseMsg("Login successful!");
+          router.push("/");
         } else {
-          setResponseMsg(data?.message || "Login failed.");
+          setResponseMsg("Login failed");
         }
       } catch (error) {
         setResponseMsg("Something went wrong!");

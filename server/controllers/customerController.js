@@ -50,7 +50,7 @@ customer.post("/signup", async (req, res) => {
       });
       await user.save();
       const cart = await Cart?.create({
-        user: user?._id,
+        user: user?.email,
         products: [],
         totalPrice: 0,
       });
@@ -70,7 +70,7 @@ customer.post("/login", async (req, res) => {
   } else if (user?.password !== body?.password) {
     res.send("invalid credentials");
   } else {
-    const cart = await Cart?.findOne({ email: body?.email });
+    const cart = await Cart?.findOne({ user: body?.email });
     res.send({ user, cart });
   }
 });
@@ -93,9 +93,13 @@ customer.put("/updateAccount", async (req, res) => {
 
   if (user) {
     const updatedUser = await Customer?.findOne({ email: body?.email });
-    const cart = await Cart?.findOne({ user: updatedUser?._id });
+    const updatedCart = await Cart.findOneAndUpdate(
+      { user: updatedUser?._id },
+      { $set: { user: updatedUser?.email } },
+      { new: true },
+    );
 
-    res.send({ user: updatedUser, cart });
+    res.send({ user: updatedUser, cart: updatedCart });
   } else {
     res.send("failed");
   }

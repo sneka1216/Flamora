@@ -32,14 +32,13 @@ const Register = () => {
   });
   const [guest, setGuest] = useState(false);
   const [user, setUser] = useState<StoredUser | null>(null);
-  const { updateAccount } = useAccount();
+  const { updateAccount, register } = useAccount();
   const [isPending, startTransition] = useTransition();
   const [responseMsg, setResponseMsg] = useState("");
   const router = useRouter();
 
   useEffect(() => {
     const userData = getWithExpiry("user");
-    console.log("userData", userData);
     setUser(userData);
   }, []);
 
@@ -67,22 +66,13 @@ const Register = () => {
         }
 
         // otherwise create new user
-        const res = await fetch(
-          "https://flamora.onrender.com/customer/signup",
-          {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify(formData),
-          },
-        );
+        const res = await register(formData);
 
-        const data = await res.json();
-
-        if (res.ok) {
-          router.push("/account/login");
+        if (res) {
           setResponseMsg("Registration successful!");
+          router.push("/account/login");
         } else {
-          setResponseMsg(data?.message || "Registration failed.");
+          setResponseMsg("Registration failed.");
         }
       } catch (error) {
         setResponseMsg("Something went wrong!");
