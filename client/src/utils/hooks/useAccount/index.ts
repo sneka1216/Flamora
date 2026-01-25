@@ -41,7 +41,7 @@ const useAccount = () => {
   const updateAccount = useCallback(async (payload: User) => {
     try {
       const response = await fetch(
-        "http://localhost:5000/customer/updateAccount",
+        "https://flamora.onrender.com/customer/updateAccount",
         {
           method: "PUT",
           headers: {
@@ -68,13 +68,16 @@ const useAccount = () => {
 
   const login = useCallback(async (payload: login) => {
     try {
-      const response = await fetch("http://localhost:5000/customer/login", {
-        method: "POST",
-        headers: {
-          "content-Type": "application/json",
+      const response = await fetch(
+        "https://flamora.onrender.com/customer/login",
+        {
+          method: "POST",
+          headers: {
+            "content-Type": "application/json",
+          },
+          body: JSON.stringify(payload),
         },
-        body: JSON.stringify(payload),
-      });
+      );
       const data = await response.json();
 
       setWithExpiry("user", data?.user, ONE_YEAR_MS);
@@ -87,13 +90,16 @@ const useAccount = () => {
 
   const register = useCallback(async (payload: registerUser) => {
     try {
-      const response = await fetch("http://localhost:5000/customer/signup", {
-        method: "POST",
-        headers: {
-          "content-Type": "application/json",
+      const response = await fetch(
+        "https://flamora.onrender.com/customer/signup",
+        {
+          method: "POST",
+          headers: {
+            "content-Type": "application/json",
+          },
+          body: JSON.stringify(payload),
         },
-        body: JSON.stringify(payload),
-      });
+      );
       const data = await response.json();
       if (data) {
         return data;
