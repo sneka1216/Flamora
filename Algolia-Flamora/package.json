@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "algoliasearch": "^5.42.0",
-    "node-fetch": "^3.3.2"
+    "node-fetch": "^3.3.2",
+    "type": "module"
   }
 }
