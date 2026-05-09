@@ -1,6 +1,6 @@
 import { algoliasearch } from "algoliasearch";
 
-const client = algoliasearch("Y68H439JFV", "9dd8d40bb4b8978f3833db6c4f7580dd");
+const client = algoliasearch("0NAUEHGFD8", "6f456a4f98c11f5c1a355525a8f32057");
 
 export const processRecords = async (uploadObject) => {
   return await client.saveObjects({
